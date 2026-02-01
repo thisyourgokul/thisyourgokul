@@ -42,21 +42,12 @@ Currently exploring **AI-driven analytics, Generative AI, and applied ML** for f
 
 - **Global Rank 820** and **India Rank 144** in the 15th edition of the **IEEEXtreme Programming Competition**  
 - **Top Mentor – Special Appreciation** for training and mentorship in the Scratch Workshop Series  
-  (International CoderDojo Initiative – *Come and Code*)  
+  (International CoderDojo Initiative – *Come and Code*).  
 - **Troubleshooter Badge**, Code Vipassana Season 11  
-  Instructor-led, hands-on program focused on building data for AI applications  
-
+  Instructor-led, hands-on program focused on building data for AI applications.
+  
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thisyourgokul&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisyourgokul&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</p>
 
 ## 📌 Featured Work
 
