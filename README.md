@@ -12,9 +12,7 @@ Purpose-driven **Data Analyst** with hands-on experience in SQL, Python, Excel, 
 I build dashboards, automate reporting, and deliver decision-ready insights across teams.  
 Currently focused on **AI-driven analytics, Generative AI, and applied ML** for forecasting and advanced data storytelling.
 
-**Current Position:**  
-**Junior Data Analyst** at **Amrita Vishwa Vidyapeetham**  
-Department of **E-Governance**
+**Current Position:** **Junior Data Analyst** at **Amrita Vishwa Vidyapeetham**, Department of **E-Governance**
 
 ---
 
@@ -83,7 +81,7 @@ ETL, Apache Airflow, Databricks
   Supported technical outreach, event coordination, and peer engagement.
 
 - **CoderDojo**  
-  Volunteer mentor and trainer for Scratch workshops under the International CoderDojo initiative.  
+  Volunteered as mentor and trainer for Scratch workshops under the International CoderDojo initiative.  
   Recognized with **Top Mentor Special Appreciation**.
 
 - **IEDC (Innovation and Entrepreneurship Development Cell)**  
