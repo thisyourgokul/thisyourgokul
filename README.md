@@ -73,8 +73,14 @@ Currently focused on **AI-driven analytics, Generative AI, and applied ML** for 
 ## 🤝 Volunteering
 
 - **IEEE**  
-  Ambassador and volunteer for **IEEEXtreme**, **IEEE PES Day 2021**, and **IEEE Day 2021**.  
+  Volunteered as Ambassador roles for IEEE, **IEEEXtreme**, **IEEE PES Day 2021**, and **IEEE Day 2021**.
+  Served Student Branch Secretary role maintaining records.
   Supported technical outreach, event coordination, and peer engagement.
+
+  - **TinkerHub**  
+    Led campus initiatives by organizing events, mentoring members, and building a strong tech learning culture.
+    Acted as the campus ambassador for TinkerHub values and served as the liaison with the Campus Council,
+    submitting regular activity reports.
 
 - **CoderDojo**  
   Volunteered as mentor and trainer for Scratch workshops under the International CoderDojo initiative.  
