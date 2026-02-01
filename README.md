@@ -129,4 +129,16 @@ ETL, Apache Airflow, Databricks
   <a href="mailto:gokulrajdatascience@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
+  <a href="http://www.datacamp.com/portfolio/gokulraj26">
+    <img src="https://skillicons.dev/icons?i=datacamp" />
+  </a>
+  <a href="https://www.kaggle.com/thisyourgokul">
+    <img src="https://skillicons.dev/icons?i=kaggle" />
+  </a>
+  <a href="https://public.tableau.com/app/profile/g108">
+    <img src="https://skillicons.dev/icons?i=tableau" />
+  </a>
+  <a href="https://x.com/gokulraj_data">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
 </p>
