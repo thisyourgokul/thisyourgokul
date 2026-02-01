@@ -48,7 +48,7 @@ Currently focused on **AI-driven analytics, Generative AI, and applied Machine L
   (International CoderDojo Initiative – *Come and Code*)
 - **Troubleshooter Badge**, Code Vipassana Season 11  
   Instructor-led program focused on building data pipelines for AI applications
-- **Global Rank 820** and **India Rank 144** in the **IEEEXtreme Programming Competition**
+- **Global Rank 820** and **India Rank 144** in the 15th Edition of **IEEEXtreme Programming Competition**
 
 ---
 
@@ -71,7 +71,7 @@ Currently focused on **AI-driven analytics, Generative AI, and applied Machine L
 ## 🤝 Volunteering
 
 - **IEEE**  
-  Volunteered for IEEE initiatives including **IEEEXtreme**, **IEEE PES Day 2021**, and **IEEE Day 2021**.  
+  Volunteered for IEEE initiatives including **IEEEXtreme(15th and 16th Edition)**, **IEEE PES Day 2021**, and **IEEE Day 2021**.  
   Served as Student Branch Secretary, managing records and supporting technical outreach.
 
 - **TinkerHub**  
