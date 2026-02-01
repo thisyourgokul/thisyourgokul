@@ -10,9 +10,10 @@
 
 Purpose-driven **Data Analyst** with hands-on experience in SQL, Python, Excel, and BI tools.  
 I build dashboards, automate reporting, and deliver decision-ready insights across teams.  
-Currently focused on **AI-driven analytics, Generative AI, and applied ML** for forecasting and advanced data storytelling.
+Currently focused on **AI-driven analytics, Generative AI, and applied Machine Learning** for forecasting and advanced data storytelling.
 
-**Current Position:** **Junior Data Analyst** at **Amrita Vishwa Vidyapeetham**, Department of **E-Governance**
+**Current Position:** **Junior Data Analyst**  
+**Organization:** **Amrita Vishwa Vidyapeetham**, Department of **E-Governance**
 
 ---
 
@@ -22,13 +23,10 @@ Currently focused on **AI-driven analytics, Generative AI, and applied ML** for 
   <img src="https://skillicons.dev/icons?i=python,r,sql,numpy,pandas,sklearn,tensorflow,aws,azure,airflow,git,github,vscode" />
 </p>
 
-**Data Analysis Skills:** Data Cleaning, Exploratory Data Analysis (EDA), Descriptive Statistics, Data Modeling
-
-**Analytics & BI:** Excel, Power BI, Tableau, Metabase
-
-**Machine Learning & AI:** Machine Learning, Deep Learning, Generative AI, LangGraph
-
-**Data Engineering:** ETL, Apache Airflow, Databricks
+**Data Analysis:** Data Cleaning, EDA, Descriptive Statistics, Data Modeling  
+**Analytics & BI:** Excel, Power BI, Tableau, Metabase  
+**Machine Learning & AI:** Machine Learning, Deep Learning, Generative AI, LangGraph  
+**Data Engineering:** ETL, Apache Airflow, Databricks  
 
 ---
 
@@ -62,25 +60,23 @@ Currently focused on **AI-driven analytics, Generative AI, and applied ML** for 
 
 - **The Sparks Foundation**  
   Completed the Graduate Rotational Internship Program (GRIP).  
-  Built supervised and unsupervised machine learning models and performed EDA on retail datasets.
+  Built supervised and unsupervised ML models and performed EDA on retail datasets.
 
 - **Inker Robotics**  
-  Gained hands-on exposure to applied AI, robotics systems, and intelligent decision-making.  
-  Worked with fuzzy logic, neural networks, and real-world AI use cases.
+  Worked on applied AI and robotics systems.  
+  Gained exposure to fuzzy logic, neural networks, and real-world AI use cases.
 
 ---
 
 ## 🤝 Volunteering
 
 - **IEEE**  
-  Volunteered as Ambassador roles for IEEE, **IEEEXtreme**, **IEEE PES Day 2021**, and **IEEE Day 2021**.
-  Served Student Branch Secretary role maintaining records.
-  Supported technical outreach, event coordination, and peer engagement.
+  Volunteered for IEEE initiatives including **IEEEXtreme**, **IEEE PES Day 2021**, and **IEEE Day 2021**.  
+  Served as Student Branch Secretary, managing records and supporting technical outreach.
 
-  - **TinkerHub**  
-    Led campus initiatives by organizing events, mentoring members, and building a strong tech learning culture.
-    Acted as the campus ambassador for TinkerHub values and served as the liaison with the Campus Council,
-    submitting regular activity reports.
+- **TinkerHub**  
+  Led campus initiatives by organizing technical events, mentoring members, and fostering a strong tech learning culture.  
+  Served as the campus ambassador for TinkerHub values and acted as the liaison with the Campus Council, submitting regular activity reports.
 
 - **CoderDojo**  
   Volunteered as mentor and trainer for Scratch workshops under the International CoderDojo initiative.  
@@ -91,36 +87,36 @@ Currently focused on **AI-driven analytics, Generative AI, and applied ML** for 
 
 ---
 
-## 🚀 Top 5 Personal Projects (Data Science & Artificial Intelligence)
+## 🚀 Top 5 Personal Projects (Data Science & AI)
 
 - **American Express Data Analysis**  
-  Analyzed customer transaction and behavioral data to identify spending patterns and risk indicators.
+  Analyzed customer transactions to identify spending patterns and risk indicators.
 
 - **Wrangling and Visualizing Musical Data**  
-  Cleaned and visualized music datasets to uncover trends in genres, popularity, and audio features.
+  Cleaned and visualized music datasets to uncover trends in genres and popularity.
 
 - **Zomato Review Analysis**  
-  Performed sentiment analysis on restaurant reviews to extract customer preferences and rating drivers.
+  Performed sentiment analysis to extract customer preferences and rating drivers.
 
 - **Visualizing Inequalities in Life Expectancy**  
-  Explored global datasets to highlight socio-economic and regional disparities through visual analysis.
+  Highlighted socio-economic and regional disparities using global datasets.
 
 - **Predicting Credit Card Approvals**  
-  Built a supervised ML model to predict approval outcomes using feature engineering and evaluation.
+  Built a supervised ML model using feature engineering and evaluation techniques.
 
 ---
 
 ## 📌 Featured Work
 
-- Built and maintained **enterprise dashboards** for HRMS, Admissions, Alumni, and Academic systems across **10+ campuses of Amrita Vishwa Vidyapeetham**.
+- Built and maintained **enterprise dashboards** for HRMS, Admissions, Alumni, and Academic systems across **10+ campuses**.
 - Automated reporting pipelines, reducing **manual effort by ~40%**.
-- Performed **EDA** on complex datasets to surface anomalies and trends for leadership reviews.
-- Developed **machine learning models** for churn prediction, sentiment analysis, and approval automation.
+- Performed **EDA** on complex datasets for leadership decision support.
+- Developed ML models for **churn prediction, sentiment analysis, and approval automation**.
 - Designed **self-service BI dashboards** for non-technical teams.
-- Integrated multi-source datasets for **Amrita Alumni Meetup 2024** outreach and analytics.
+- Integrated multi-source datasets for **Amrita Alumni Meetup 2024** analytics.
 - Built an **Employee Information System prototype** using Agile practices in TCS Jile.
-- Delivered end-to-end ML projects during **GRIP**, including feature engineering and evaluation.
-- Applied AI concepts such as fuzzy logic and neural networks through AICRA-certified programs.
+- Delivered end-to-end ML projects during **GRIP**.
+- Applied AI concepts including fuzzy logic and neural networks through AICRA-certified programs.
 
 ---
 
