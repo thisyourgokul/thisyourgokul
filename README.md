@@ -12,6 +12,10 @@ Purpose-driven **Data Analyst** with hands-on experience in SQL, Python, Excel, 
 I build dashboards, automate reporting, and deliver decision-ready insights across teams.  
 Currently focused on **AI-driven analytics, Generative AI, and applied ML** for forecasting and advanced data storytelling.
 
+**Current Position:**  
+**Junior Data Analyst** at **Amrita Vishwa Vidyapeetham**  
+Department of **E-Governance**
+
 ---
 
 ## 🧰 Tech Stack
@@ -129,16 +133,13 @@ ETL, Apache Airflow, Databricks
   <a href="mailto:gokulrajdatascience@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="http://www.datacamp.com/portfolio/gokulraj26">
-    <img src="https://skillicons.dev/icons?i=datacamp" />
-  </a>
-  <a href="https://www.kaggle.com/thisyourgokul">
-    <img src="https://skillicons.dev/icons?i=kaggle" />
-  </a>
-  <a href="https://public.tableau.com/app/profile/g108">
-    <img src="https://skillicons.dev/icons?i=tableau" />
-  </a>
   <a href="https://x.com/gokulraj_data">
     <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="https://www.instagram.com/palebluedotstories">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://www.threads.com/@palebluedotstories">
+    <img src="https://skillicons.dev/icons?i=threads" />
   </a>
 </p>
