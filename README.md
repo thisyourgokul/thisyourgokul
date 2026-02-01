@@ -22,17 +22,13 @@ Currently focused on **AI-driven analytics, Generative AI, and applied ML** for 
   <img src="https://skillicons.dev/icons?i=python,r,sql,numpy,pandas,sklearn,tensorflow,aws,azure,airflow,git,github,vscode" />
 </p>
 
-**Data Analysis Skills:**  
-Data Cleaning, Exploratory Data Analysis (EDA), Descriptive Statistics, Data Modeling
+**Data Analysis Skills:** Data Cleaning, Exploratory Data Analysis (EDA), Descriptive Statistics, Data Modeling
 
-**Analytics & BI:**  
-Excel, Power BI, Tableau, Metabase
+**Analytics & BI:** Excel, Power BI, Tableau, Metabase
 
-**Machine Learning & AI:**  
-Machine Learning, Deep Learning, Generative AI, LangGraph
+**Machine Learning & AI:** Machine Learning, Deep Learning, Generative AI, LangGraph
 
-**Data Engineering:**  
-ETL, Apache Airflow, Databricks
+**Data Engineering:** ETL, Apache Airflow, Databricks
 
 ---
 
