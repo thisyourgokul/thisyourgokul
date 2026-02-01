@@ -45,7 +45,7 @@ Currently focused on **AI-driven analytics, Generative AI, and applied Machine L
 ## 🏆 Achievements
 
 - **Top Mentor Special Appreciation** for training and mentorship in the Scratch Workshop Series  
-  (International CoderDojo Initiative – *Come and Code*)
+(International CoderDojo Initiative – *Come and Code*)
 - **Troubleshooter Badge**, Code Vipassana Season 11  
   Instructor-led program focused on building data pipelines for AI applications
 - **Global Rank 820** and **India Rank 144** in the 15th Edition of **IEEEXtreme Programming Competition in 2021**
