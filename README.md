@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=1000&color=A1C6EA&multiline=true&width=750&height=150&lines=Gokul+Raj+|+Data+Analyst;SQL+%7C+Python+%7C+BI+%7C+Analytics;Turning+Data+Into+Decisions;Exploring+AI+Driven+Analytics" alt="Gokul Raj Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=26&duration=3000&pause=1000&color=89CFF0;5C8DDA;89CFF0;A1C6EA&center=true&vCenter=true&width=750&lines=Gokul+Raj+|+Data+Analyst;SQL+%7C+Python+%7C+BI+%7C+Analytics;Turning+Data+Into+Decisions;Exploring+AI+Driven+Analytics" alt="Gokul Raj Typing Animation" />
 </p>
 
 <p align="center">
