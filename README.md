@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thisyourgokul&label=Profile%20Views&color=A1C6EA&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=thisyourgokul&label=Profile%20Views&color=FF00FF&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ## 👋 About Me
