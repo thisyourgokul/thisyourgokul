@@ -54,11 +54,11 @@ Currently focused on **AI-driven analytics, Generative AI, and applied Machine L
 ## 🏷️ Focus Areas
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Data_Analysis-Decision_Support-0072FF?style=for-the-badge&logo=googleanalytics&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-Advanced-00C6FF?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-Analytics_%26_ML-28E0B3?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/BI-Dashboards_%26_Reporting-F857A6?style=for-the-badge&logo=powerbi&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-GenAI_%26_ML-9D50BB?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Analysis-Decision_Support-111111?style=for-the-badge&logo=kaggle&logoColor=36BCF7" />
+  <img src="https://img.shields.io/badge/SQL-Advanced-111111?style=for-the-badge&logo=mysql&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Python-Analytics_%26_ML-111111?style=for-the-badge&logo=python&logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/BI-Dashboards_%26_Reporting-111111?style=for-the-badge&logo=tableau&logoColor=FF33F6" />
+  <img src="https://img.shields.io/badge/AI-GenAI_%26_ML-111111?style=for-the-badge&logo=openai&logoColor=B026FF" />
 </p>
 
 ---
