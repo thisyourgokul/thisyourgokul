@@ -54,11 +54,21 @@ Currently focused on **AI-driven analytics, Generative AI, and applied Machine L
 ## 🏷️ Focus Areas
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Data_Analysis-Decision_Support-00C6FF?style=for-the-badge&logo=googleanalytics&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-Advanced-8A2BE2?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-Analytics_%26_ML-FF007F?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/BI-Dashboards_%26_Reporting-FF5E00?style=for-the-badge&logo=powerbi&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-GenAI_%26_ML-FFD700?style=for-the-badge&logo=openai&logoColor=black" />
+  <!-- Strategy & Soft Skills -->
+  <img src="https://img.shields.io/badge/Business%20Acumen-102A43?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stakeholder%20Management-008080?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-D94A38?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Analytical%20Thinking-6B46C1?style=for-the-badge" />
+  <br>
+  <!-- Technical Data Skills -->
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python%20for%20Analytics%20%26%20Automation-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Modeling%20%26%20ETL-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <br>
+  <!-- Analytics & Storytelling -->
+  <img src="https://img.shields.io/badge/Statistical%20Analysis-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Data%20Storytelling%20%26%20Communication-E34F26?style=for-the-badge" />
 </p>
 
 ---
