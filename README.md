@@ -97,11 +97,12 @@ Currently focused on **AI-driven analytics, Generative AI, and applied Machine L
 - **Wrangling and Visualizing Musical Data**  
   Cleaned and visualized music datasets to uncover trends in genres and popularity.
 
-- **Zomato Review Analysis**  
-  Performed sentiment analysis to extract customer preferences and rating drivers.
+- **Newsfeed Analysis in Tableau**  
+  Engineered an interactive Tableau dashboard to analyze student interaction patterns, delivering strategic product recommendations that optimized newsfeed content delivery to maximize user engagement and
+drive subscription renewals.
 
-- **Visualizing Inequalities in Life Expectancy**  
-  Highlighted socio-economic and regional disparities using global datasets.
+- **Tableau Q&A Chatbot**  
+  Built a Retrieval-Augmented Generation(RAG) pipeline using Python, LangChain, and Chroma vector store to automate student support with context-aware OpenAI LLM responses.
 
 - **Predicting Credit Card Approvals**  
   Built a supervised ML model using feature engineering and evaluation techniques.
