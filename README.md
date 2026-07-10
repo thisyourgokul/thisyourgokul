@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=750&lines=Gokul+Raj+|+Data+Analyst;SQL+%7C+Python+%7C+BI+%7C+Analytics;Turning+Data+Into+Decisions;Exploring+AI+Driven+Analytics" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=1000&color=A1C6EA&multiline=true&width=750&height=150&lines=Gokul+Raj+|+Data+Analyst;SQL+%7C+Python+%7C+BI+%7C+Analytics;Turning+Data+Into+Decisions;Exploring+AI+Driven+Analytics" alt="Gokul Raj Typing Animation" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thisyourgokul&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=thisyourgokul&label=Profile%20Views&color=A1C6EA&style=flat" />
 </p>
 
 ## 👋 About Me
@@ -33,11 +33,11 @@ Currently focused on **AI-driven analytics, Generative AI, and applied Machine L
 ## 🏷️ Focus Areas
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Data%20Analysis-Decision%20Support-blue" />
-  <img src="https://img.shields.io/badge/SQL-Advanced-success" />
-  <img src="https://img.shields.io/badge/Python-Analytics%20%26%20ML-yellow" />
-  <img src="https://img.shields.io/badge/BI-Dashboards%20%26%20Reporting-orange" />
-  <img src="https://img.shields.io/badge/AI-GenAI%20%26%20ML-purple" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-Decision%20Support-89CFF0" />
+  <img src="https://img.shields.io/badge/SQL-Advanced-5C8DDA" />
+  <img src="https://img.shields.io/badge/Python-Analytics%20%26%20ML-A1C6EA" />
+  <img src="https://img.shields.io/badge/BI-Dashboards%20%26%20Reporting-94A3B8" />
+  <img src="https://img.shields.io/badge/AI-GenAI%20%26%20ML-E2E8F0" />
 </p>
 
 ---
@@ -69,11 +69,11 @@ Currently focused on **AI-driven analytics, Generative AI, and applied Machine L
 
 ## 🤝 Volunteering
 
-- **ACM(Association for Computing Machinery)**  
+- **ACM (Association for Computing Machinery)**  
   ✓ Professional Member, supporting professional development and engagement with the global computing community.
 
-- **IEEE(Institute of Electrical and Electronics Engineers)**  
-  ✓ Volunteered for IEEE initiatives including **IEEEXtreme(15th and 16th Edition)**, **IEEE PES Day 2021**, and **IEEE Day 2021**.  
+- **IEEE (Institute of Electrical and Electronics Engineers)**  
+  ✓ Volunteered for IEEE initiatives including **IEEEXtreme (15th and 16th Edition)**, **IEEE PES Day 2021**, and **IEEE Day 2021**.  
   ✓ Served as Student Branch Secretary, managing records and supporting technical outreach.
 
 - **TinkerHub**  
@@ -98,11 +98,10 @@ Currently focused on **AI-driven analytics, Generative AI, and applied Machine L
   ✓ Cleaned and visualized music datasets to uncover trends in genres and popularity.
 
 - **Newsfeed Analysis in Tableau**  
-  ✓ Engineered an interactive Tableau dashboard to analyze student interaction patterns, delivering strategic product recommendations that optimized newsfeed content delivery to maximize user engagement and
-drive subscription renewals.
+  ✓ Engineered an interactive Tableau dashboard to analyze student interaction patterns, delivering strategic product recommendations that optimized newsfeed content delivery to maximize user engagement and drive subscription renewals.
 
 - **Tableau Q&A Chatbot**  
-  ✓ Built a Retrieval-Augmented Generation(RAG) pipeline using Python, LangChain, and Chroma vector store to automate student support with context-aware OpenAI LLM responses.
+  ✓ Built a Retrieval-Augmented Generation (RAG) pipeline using Python, LangChain, and Chroma vector store to automate student support with context-aware OpenAI LLM responses.
 
 - **Predicting Credit Card Approvals**  
   ✓ Built a supervised ML model using feature engineering and evaluation techniques.
