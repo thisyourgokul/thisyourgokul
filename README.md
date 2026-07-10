@@ -121,10 +121,12 @@ Currently focused on **AI-driven analytics, Generative AI, and applied Machine L
 ## 🚀 Top 5 Personal Projects (Data Science & AI)
 
 - **American Express Data Analysis**  
-  ✓ Analyzed customer transactions to identify spending patterns and risk indicators.
+  ✓ Built an Artificial Neural Network using TensorFlow and Keras, achieving 85% model
+accuracy for high-risk customer identification and risk modeling.
 
-- **Wrangling and Visualizing Musical Data**  
-  ✓ Cleaned and visualized music datasets to uncover trends in genres and popularity.
+- **Zomato Sentiment Analysis**  
+  ✓ Developed machine learning-based sentiment scoring to improve customer feedback anal-
+ysis turnaround by 40%.
 
 - **Newsfeed Analysis in Tableau**  
   ✓ Engineered an interactive Tableau dashboard to analyze student interaction patterns, delivering strategic product recommendations that optimized newsfeed content delivery to maximize user engagement and drive subscription renewals.
@@ -132,8 +134,9 @@ Currently focused on **AI-driven analytics, Generative AI, and applied Machine L
 - **Tableau Q&A Chatbot**  
   ✓ Built a Retrieval-Augmented Generation (RAG) pipeline using Python, LangChain, and Chroma vector store to automate student support with context-aware OpenAI LLM responses.
 
-- **Predicting Credit Card Approvals**  
-  ✓ Built a supervised ML model using feature engineering and evaluation techniques.
+- **Analyzing Unicorn Companies**  
+  ✓ Analyzed PostgreSQL unicorn-company data using SQL to identify industry-wise
+valuation trends, top-performing sectors, and annual unicorn growth from 2019–2021.
 
 ---
 
