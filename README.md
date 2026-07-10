@@ -69,6 +69,9 @@ Currently focused on **AI-driven analytics, Generative AI, and applied Machine L
 
 ## 🤝 Volunteering
 
+- **ACM**  
+  Professional Member, supporting professional development and engagement with the global computing community.
+
 - **IEEE**  
   Volunteered for IEEE initiatives including **IEEEXtreme(15th and 16th Edition)**, **IEEE PES Day 2021**, and **IEEE Day 2021**.  
   Served as Student Branch Secretary, managing records and supporting technical outreach.
