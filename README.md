@@ -54,58 +54,58 @@ Currently focused on **AI-driven analytics, Generative AI, and applied Machine L
 ## 🎓 Internships
 
 - **TCS iON**  
-  Worked on data-driven problem solving and system design using Agile workflows.  
-  Built prototypes and gained exposure to enterprise delivery practices.
+  ✓ Worked on data-driven problem solving and system design using Agile workflows.  
+  ✓ Built prototypes and gained exposure to enterprise delivery practices.
 
 - **The Sparks Foundation**  
-  Completed the Graduate Rotational Internship Program (GRIP).  
-  Built supervised and unsupervised ML models and performed EDA on retail datasets.
+  ✓ Completed the Graduate Rotational Internship Program (GRIP).  
+  ✓ Built supervised and unsupervised ML models and performed EDA on retail datasets.
 
 - **Inker Robotics**  
-  Worked on applied AI and robotics systems.  
-  Gained exposure to fuzzy logic, neural networks, and real-world AI use cases.
+  ✓ Worked on applied AI and robotics systems.  
+  ✓ Gained exposure to fuzzy logic, neural networks, and real-world AI use cases.
 
 ---
 
 ## 🤝 Volunteering
 
 - **ACM**  
-  Professional Member, supporting professional development and engagement with the global computing community.
+  ✓ Professional Member, supporting professional development and engagement with the global computing community.
 
 - **IEEE**  
-  Volunteered for IEEE initiatives including **IEEEXtreme(15th and 16th Edition)**, **IEEE PES Day 2021**, and **IEEE Day 2021**.  
-  Served as Student Branch Secretary, managing records and supporting technical outreach.
+  ✓ Volunteered for IEEE initiatives including **IEEEXtreme(15th and 16th Edition)**, **IEEE PES Day 2021**, and **IEEE Day 2021**.  
+  ✓ Served as Student Branch Secretary, managing records and supporting technical outreach.
 
 - **TinkerHub**  
-  Led campus initiatives by organizing technical events, mentoring members, and fostering a strong tech learning culture.  
-  Served as the campus ambassador for TinkerHub values and acted as the liaison with the Campus Council, submitting regular activity reports.
+  ✓ Led campus initiatives by organizing technical events, mentoring members, and fostering a strong tech learning culture.  
+  ✓ Served as the campus ambassador for TinkerHub values and acted as the liaison with the Campus Council, submitting regular activity reports.
 
 - **CoderDojo**  
-  Volunteered as mentor and trainer for Scratch workshops under the International CoderDojo initiative.  
-  Recognized with **Top Mentor Special Appreciation**.
+  ✓ Volunteered as mentor and trainer for Scratch workshops under the International CoderDojo initiative.  
+  ✓ Recognized with **Top Mentor Special Appreciation**.
 
 - **IEDC (Innovation and Entrepreneurship Development Cell)**  
-  Supported innovation-driven programs and student-led technical initiatives.
+  ✓ Supported innovation-driven programs and student-led technical initiatives.
 
 ---
 
 ## 🚀 Top 5 Personal Projects (Data Science & AI)
 
 - **American Express Data Analysis**  
-  Analyzed customer transactions to identify spending patterns and risk indicators.
+  ✓ Analyzed customer transactions to identify spending patterns and risk indicators.
 
 - **Wrangling and Visualizing Musical Data**  
-  Cleaned and visualized music datasets to uncover trends in genres and popularity.
+  ✓ Cleaned and visualized music datasets to uncover trends in genres and popularity.
 
 - **Newsfeed Analysis in Tableau**  
-  Engineered an interactive Tableau dashboard to analyze student interaction patterns, delivering strategic product recommendations that optimized newsfeed content delivery to maximize user engagement and
+  ✓ Engineered an interactive Tableau dashboard to analyze student interaction patterns, delivering strategic product recommendations that optimized newsfeed content delivery to maximize user engagement and
 drive subscription renewals.
 
 - **Tableau Q&A Chatbot**  
-  Built a Retrieval-Augmented Generation(RAG) pipeline using Python, LangChain, and Chroma vector store to automate student support with context-aware OpenAI LLM responses.
+  ✓ Built a Retrieval-Augmented Generation(RAG) pipeline using Python, LangChain, and Chroma vector store to automate student support with context-aware OpenAI LLM responses.
 
 - **Predicting Credit Card Approvals**  
-  Built a supervised ML model using feature engineering and evaluation techniques.
+  ✓ Built a supervised ML model using feature engineering and evaluation techniques.
 
 ---
 
