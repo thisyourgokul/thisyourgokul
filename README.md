@@ -289,29 +289,38 @@
 
 ## 📌 Featured Work
 
-```
+```text
 ╭──────────────────────────────────────────────────────────────╮
-│                   CONTRIBUTION LEDGER                                   │  
+│                   CONTRIBUTION LEDGER                                   │
 ╰──────────────────────────────────────────────────────────────╯
 ```
 
-【001】 Built and maintained **enterprise dashboards** for HRMS, Admissions, Alumni, and Academic systems across **10+ campuses**.
+📊 **Enterprise Dashboards**  
+Built and maintained **enterprise dashboards** for HRMS, Admissions, Alumni, and Academic systems across **10+ campuses**.
 
-【002】 Automated reporting pipelines, reducing **manual effort by ~40%**.
+⚙️ **Reporting Automation**  
+Automated reporting pipelines, reducing **manual effort by ~40%**.
 
-【003】 Performed **EDA** on complex datasets for leadership decision support.
+🔍 **Exploratory Data Analysis**  
+Performed **EDA** on complex datasets for leadership decision support.
 
-【004】 Developed ML models for **churn prediction, sentiment analysis, and approval automation**.
+🤖 **Machine Learning**  
+Developed ML models for **churn prediction, sentiment analysis, and approval automation**.
 
-【005】 Designed **self-service BI dashboards** for non-technical teams.
+📈 **Business Intelligence**  
+Designed **self-service BI dashboards** for non-technical teams.
 
-【006】 Integrated multi-source datasets for **Amrita Alumni Meetup 2024** analytics.
+🎓 **Alumni Analytics**  
+Integrated multi-source datasets for **Amrita Alumni Meetup 2024** analytics.
 
-【007】 Built an **Employee Information System prototype** using Agile practices in **TCS Jile**.
+💼 **Enterprise Application**  
+Built an **Employee Information System prototype** using Agile practices in **TCS Jile**.
 
-【008】 Delivered end-to-end ML projects during **GRIP**.
+🧠 **End-to-End ML Projects**  
+Delivered end-to-end ML projects during **GRIP**.
 
-【009】 Applied AI concepts including fuzzy logic and neural networks through **AICRA-certified programs**.
+🚀 **Artificial Intelligence**  
+Applied AI concepts including fuzzy logic and neural networks through **AICRA-certified programs**.
 
 ---
 
