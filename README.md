@@ -131,34 +131,74 @@
 
 ## 🤝 Volunteering
 
-> ### <img src="https://cdn.simpleicons.org/acm/0085CA" width="22"/> ACM
-> ✓ Professional Member, supporting professional development and engagement with the global computing community.
+<details open>
+<summary>
+
+### <img src="assets/acm.png" width="24"> ACM <img src="https://img.shields.io/badge/Professional%20Member-0085CA?style=flat-square">
+
+</summary>
+
+- ✓ Professional Member, supporting professional development and engagement with the global computing community.
+
+</details>
 
 ---
 
-> ### <img src="https://cdn.simpleicons.org/ieee/00629B" width="22"/> IEEE
-> ✓ Volunteered for IEEE initiatives including **IEEEXtreme (15th and 16th Edition)**, **IEEE PES Day 2021**, and **IEEE Day 2021**.
->
-> ✓ Served as Student Branch Secretary, managing records and supporting technical outreach.
+<details open>
+<summary>
+
+### <img src="assets/ieee.png" width="24"> IEEE <img src="https://img.shields.io/badge/Student%20Branch%20Secretary-00629B?style=flat-square">
+
+</summary>
+
+- ✓ Volunteered for IEEE initiatives including **IEEEXtreme (15th and 16th Edition)**, **IEEE PES Day 2021**, and **IEEE Day 2021**.
+
+- ✓ Served as Student Branch Secretary, managing records and supporting technical outreach.
+
+</details>
 
 ---
 
-> ### 🚀 TinkerHub
-> ✓ Led campus initiatives by organizing technical events, mentoring members, and fostering a strong tech learning culture.
->
-> ✓ Served as the campus ambassador for TinkerHub values and acted as the liaison with the Campus Council, submitting regular activity reports.
+<details open>
+<summary>
+
+### <img src="assets/tinkerhub.png" width="24"> TinkerHub <img src="https://img.shields.io/badge/Campus%20Ambassador-00C853?style=flat-square">
+
+</summary>
+
+- ✓ Led campus initiatives by organizing technical events, mentoring members, and fostering a strong tech learning culture.
+
+- ✓ Served as the campus ambassador for TinkerHub values and acted as the liaison with the Campus Council, submitting regular activity reports.
+
+</details>
 
 ---
 
-> ### 💻 CoderDojo
-> ✓ Volunteered as mentor and trainer for Scratch workshops under the International CoderDojo initiative.
->
-> ✓ Recognized with **Top Mentor Special Appreciation**.
+<details open>
+<summary>
+
+### <img src="assets/coderdojo.png" width="24"> CoderDojo <img src="https://img.shields.io/badge/Top%20Mentor-F57C00?style=flat-square">
+
+</summary>
+
+- ✓ Volunteered as mentor and trainer for Scratch workshops under the International CoderDojo initiative.
+
+- ✓ Recognized with **Top Mentor Special Appreciation**.
+
+</details>
 
 ---
 
-> ### 💡 IEDC
-> ✓ Supported innovation-driven programs and student-led technical initiatives.
+<details open>
+<summary>
+
+### <img src="assets/iedc.png" width="24"> IEDC <img src="https://img.shields.io/badge/Innovation%20Volunteer-8E24AA?style=flat-square">
+
+</summary>
+
+- ✓ Supported innovation-driven programs and student-led technical initiatives.
+
+</details>
 
 ---
 
