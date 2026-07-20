@@ -109,27 +109,17 @@
 <table>
 <tr>
 
-<td width="33%" align="center">
-
-# 🌌
-
-### Top Mentor
-
-<img src="https://img.shields.io/badge/★%20SPECIAL%20APPRECIATION-5B21B6?style=plastic">
-## 🏆 Achievements
-
-<table>
-<tr>
-
 <td width="33%" valign="top" align="center">
 
-## 🌟 Mentor's Honor
+# 👨‍🏫
+### **Top Mentor**
+##### *Special Appreciation*
 
-### **Top Mentor Special Appreciation**
+━━━━━━━━━━━━━━━━━━
 
-🟣 *International CoderDojo Initiative*
+**International CoderDojo Initiative**
 
-━━━━━━━━━━━━━━━━━━━━
+<br>
 
 🏅 Top Mentor Special Appreciation for training and mentorship in the Scratch Workshop Series (*Come and Code*).
 
@@ -137,40 +127,48 @@
 
 <td width="33%" valign="top" align="center">
 
-## ⚡ Code Vipassana
+# ☁️
+### **Code Vipassana**
+##### *Technical Excellence*
 
-### **Technical Excellence**
+━━━━━━━━━━━━━━━━━━
 
-🔷 *Google Cloud Learning Journey*
+🛡️ **Troubleshooter Badge** — Season 11
 
-━━━━━━━━━━━━━━━━━━━━
+<br>
 
-🛡️ **Troubleshooter Badge**, Code Vipassana Season 11.
+⭐ **Exceptional Performance** — Seasons **13, 14 & 15**
 
-💎 Instructor-led program focused on various applications of Google Cloud Platform.
+Successfully completed **all labs consecutively** across all three seasons.
 
-🚀 Earned **Exceptional Performance** recognition in **Code Vipassana Seasons 13, 14, and 15** by successfully completing **all labs consecutively** across all three seasons.
+<br>
+
+Instructor-led program focused on various applications of **Google Cloud Platform**.
 
 </td>
 
 <td width="33%" valign="top" align="center">
 
-## 🌍 Global Challenge
+# 🌍
+### **IEEEXtreme**
+##### *Programming Competition*
 
-### **IEEEXtreme 15.0**
+━━━━━━━━━━━━━━━━━━
 
-🟠 *Programming Competition • 2021*
+🥈 **Global Rank:** **820**
 
-━━━━━━━━━━━━━━━━━━━━
+🇮🇳 **India Rank:** **144**
 
-🥈 **Global Rank:** 820
+<br>
 
-🇮🇳 **India Rank:** 144
+15th Edition • 2021
 
 </td>
 
 </tr>
 </table>
+
+</div>
 
 ## 🎓 Internships
 
