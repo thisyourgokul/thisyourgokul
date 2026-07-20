@@ -6,7 +6,9 @@
   <img src="https://komarev.com/ghpvc/?username=thisyourgokul&label=Profile%20Views&color=FF00FF&style=for-the-badge" alt="Profile Views" />
 </p>
 
-## 👋 About Me
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=42&color=gradient&customColorList=24,12&text=👋%20About%20Me&fontSize=24&fontColor=ffffff&animation=fadeIn" />
+</p>
 
 <table>
 <tr>
@@ -50,7 +52,9 @@
 </tr>
 </table>
 
-## 🧰 Tech Stack
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=42&color=gradient&customColorList=31,6&text=🧰%20Tech%20Stack&fontSize=24&fontColor=ffffff&animation=fadeIn" />
+</p>
 
 <p align="left">
   <!-- Languages & Version Control -->
@@ -82,7 +86,9 @@
 
 ---
 
-## 🏷️ Focus Areas
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=42&color=gradient&customColorList=18,30&text=🏷️%20Focus%20Areas&fontSize=24&fontColor=ffffff&animation=fadeIn" />
+</p>
 
 <p align="left">
   <!-- Strategy & Soft Skills -->
@@ -102,7 +108,9 @@
   <img src="https://img.shields.io/badge/Data%20Storytelling%20%26%20Communication-E34F26?style=for-the-badge" />
 </p>
 
-## 🏆 Achievements
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=42&color=gradient&customColorList=2,17&text=🏆%20Achievements&fontSize=24&fontColor=ffffff&animation=fadeIn" />
+</p>
 
 <details open>
 <summary><b>👨‍🏫 Top Mentor Special Appreciation</b></summary>
@@ -142,7 +150,9 @@
 
 </details>
 
-## 🎓 Internships
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=42&color=gradient&customColorList=26,9&text=🎓%20Internships&fontSize=24&fontColor=ffffff&animation=fadeIn" />
+</p>
 
 <p align="left">
 <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=20&duration=3500&pause=1500&color=6F00FF&vCenter=true&repeat=true&width=280&lines=🏢+TCS+iON"/>
@@ -184,7 +194,9 @@
 
 ✓ Gained exposure to fuzzy logic, neural networks, and real-world AI use cases.
 
-## 🤝 Volunteering
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=42&color=gradient&customColorList=5,22&text=🤝%20Volunteering&fontSize=24&fontColor=ffffff&animation=fadeIn" />
+</p>
 
 ### <img src="https://cdn.simpleicons.org/acm/0085CA" width="26" valign="middle"> ACM (Association for Computing Machinery)
 ![](https://img.shields.io/badge/Professional%20Member-0085CA?style=for-the-badge)
@@ -227,7 +239,9 @@
 
 ---
 
-## 🚀 Top 5 Personal Projects (Data Science & AI)
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=42&color=gradient&customColorList=13,27&text=🚀%20Top%205%20Personal%20Projects&fontSize=22&fontColor=ffffff&animation=fadeIn" />
+</p>
 
 <details open>
 <summary><b>📂 Project 01 • American Express Data Analysis</b></summary>
@@ -287,7 +301,9 @@
 
 ---
 
-## 📌 Featured Work
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=42&color=gradient&customColorList=29,10&text=📌%20Featured%20Work&fontSize=24&fontColor=ffffff&animation=fadeIn" />
+</p>
 
 ```text
 ╭──────────────────────────────────────────────────────────────╮
@@ -324,7 +340,9 @@ Applied AI concepts including fuzzy logic and neural networks through **AICRA-ce
 
 ---
 
-## 📫 Connect
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=42&color=gradient&customColorList=7,25&text=📫%20Connect&fontSize=24&fontColor=ffffff&animation=fadeIn" />
+</p>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/g108">
