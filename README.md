@@ -102,16 +102,78 @@
   <img src="https://img.shields.io/badge/Data%20Storytelling%20%26%20Communication-E34F26?style=for-the-badge" />
 </p>
 
----
-
 ## 🏆 Achievements
 
-- **Top Mentor Special Appreciation** for training and mentorship in the Scratch Workshop Series (International CoderDojo Initiative – *Come and Code*)
-- **Troubleshooter Badge**, Code Vipassana Season 11  
-  Instructor-led program focused on various applications of Google Cloud Platform.
-- **Global Rank 820** and **India Rank 144** in the 15th Edition of **IEEEXtreme Programming Competition in 2021**
+<table>
+<tr>
 
----
+<td width="33%" align="center">
+
+### 👨‍🏫
+
+## Top Mentor
+
+<sub><b>Special Appreciation</b></sub>
+
+<br>
+
+International CoderDojo Initiative
+
+<br><br>
+
+🏅
+
+Top Mentor Special Appreciation for training and mentorship in the Scratch Workshop Series (*Come and Code*).
+
+</td>
+
+<td width="33%" align="center">
+
+### 🛠️
+
+## Troubleshooter
+
+<sub><b>Code Vipassana</b></sub>
+
+<br>
+
+Season 11
+
+<br><br>
+
+🛡️
+
+Troubleshooter Badge.
+
+Instructor-led program focused on various applications of Google Cloud Platform.
+
+</td>
+
+<td width="33%" align="center">
+
+### 🌍
+
+## IEEEXtreme
+
+<sub><b>Programming Competition</b></sub>
+
+<br>
+
+15th Edition • 2021
+
+<br><br>
+
+🥈
+
+Global Rank **820**
+
+India Rank **144**
+
+</td>
+
+</tr>
+
+</table>
 
 ## 🎓 Internship Experience
 
