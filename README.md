@@ -115,17 +115,35 @@
 
 ## 🎓 Internships
 
-- **TCS iON**  
-  ✓ Worked on data-driven problem solving and system design using Agile workflows.  
-  ✓ Built prototypes and gained exposure to enterprise delivery practices.
+## 🎓 Internships
 
-- **The Sparks Foundation**  
-  ✓ Completed the Graduate Rotational Internship Program (GRIP).  
-  ✓ Built supervised and unsupervised ML models and performed EDA on retail datasets.
+### 🏢 <img src="https://img.shields.io/badge/TCS-iON-0056D2?style=for-the-badge&logo=tata&logoColor=white">
 
-- **Inker Robotics**  
-  ✓ Worked on applied AI and robotics systems.  
-  ✓ Gained exposure to fuzzy logic, neural networks, and real-world AI use cases.
+> ![](https://img.shields.io/badge/Enterprise-Intern-blue?style=flat-square)
+>
+> ✓ Worked on data-driven problem solving and system design using Agile workflows.
+>
+> ✓ Built prototypes and gained exposure to enterprise delivery practices.
+
+---
+
+### 🌱 <img src="https://img.shields.io/badge/The%20Sparks%20Foundation-00C853?style=for-the-badge">
+
+> ![](https://img.shields.io/badge/GRIP-Intern-success?style=flat-square)
+>
+> ✓ Completed the Graduate Rotational Internship Program (GRIP).
+>
+> ✓ Built supervised and unsupervised ML models and performed EDA on retail datasets.
+
+---
+
+### 🤖 <img src="https://img.shields.io/badge/Inker-Robotics-FF6F00?style=for-the-badge">
+
+> ![](https://img.shields.io/badge/AI-Robotics-orange?style=flat-square)
+>
+> ✓ Worked on applied AI and robotics systems.
+>
+> ✓ Gained exposure to fuzzy logic, neural networks, and real-world AI use cases.
 
 ---
 
