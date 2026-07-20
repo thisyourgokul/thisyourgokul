@@ -116,64 +116,61 @@
 ### Top Mentor
 
 <img src="https://img.shields.io/badge/★%20SPECIAL%20APPRECIATION-5B21B6?style=plastic">
+## 🏆 Achievements
 
-<img src="https://img.shields.io/badge/CoderDojo-EC4899?style=plastic">
+<table>
+<tr>
 
-<img src="https://img.shields.io/badge/Mentorship-A855F7?style=plastic">
+<td width="33%" valign="top" align="center">
 
-<br><br>
+## 🌟 Mentor's Honor
 
-Top Mentor Special Appreciation for training and mentorship in the Scratch Workshop Series (International CoderDojo Initiative – *Come and Code*).
+### **Top Mentor Special Appreciation**
 
-</td>
+🟣 *International CoderDojo Initiative*
 
-<td width="33%" align="center">
+━━━━━━━━━━━━━━━━━━━━
 
-# ⚙️
-
-### Troubleshooter
-
-<img src="https://img.shields.io/badge/🛡️%20BADGE-0F766E?style=plastic">
-
-<img src="https://img.shields.io/badge/Season%2011-0891B2?style=plastic">
-
-<img src="https://img.shields.io/badge/Google%20Cloud-0EA5E9?style=plastic">
-
-<br><br>
-
-Troubleshooter Badge, Code Vipassana Season 11.
-
-Instructor-led program focused on various applications of Google Cloud Platform.
+🏅 Top Mentor Special Appreciation for training and mentorship in the Scratch Workshop Series (*Come and Code*).
 
 </td>
 
-<td width="33%" align="center">
+<td width="33%" valign="top" align="center">
 
-# 🌠
+## ⚡ Code Vipassana
 
-### IEEEXtreme
+### **Technical Excellence**
 
-<img src="https://img.shields.io/badge/🌍%20GLOBAL%20820-DC2626?style=plastic">
+🔷 *Google Cloud Learning Journey*
 
-<img src="https://img.shields.io/badge/🇮🇳%20INDIA%20144-E11D48?style=plastic">
+━━━━━━━━━━━━━━━━━━━━
 
-<img src="https://img.shields.io/badge/2021-F97316?style=plastic">
+🛡️ **Troubleshooter Badge**, Code Vipassana Season 11.
 
-<br><br>
+💎 Instructor-led program focused on various applications of Google Cloud Platform.
 
-Global Rank **820**
+🚀 Earned **Exceptional Performance** recognition in **Code Vipassana Seasons 13, 14, and 15** by successfully completing **all labs consecutively** across all three seasons.
 
-India Rank **144**
+</td>
 
-in the **15th Edition of IEEEXtreme Programming Competition in 2021**.
+<td width="33%" valign="top" align="center">
+
+## 🌍 Global Challenge
+
+### **IEEEXtreme 15.0**
+
+🟠 *Programming Competition • 2021*
+
+━━━━━━━━━━━━━━━━━━━━
+
+🥈 **Global Rank:** 820
+
+🇮🇳 **India Rank:** 144
 
 </td>
 
 </tr>
-
 </table>
-
-</div>
 
 ## 🎓 Internships
 
