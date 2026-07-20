@@ -113,38 +113,68 @@
 
 ---
 
-## 🎓 Internships
+## 🎓 Internship Experience
 
-## 🎓 Internships
+<table>
+<tr>
+<td width="70" align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/TCS_Logo.svg" width="42">
+</td>
+<td>
 
-### 🏢 <img src="https://img.shields.io/badge/TCS-iON-0056D2?style=for-the-badge&logo=tata&logoColor=white">
+### TCS iON
+![](https://img.shields.io/badge/Enterprise%20Intern-005792?style=for-the-badge)
+![](https://img.shields.io/badge/Agile-0052CC?style=flat-square)
+![](https://img.shields.io/badge/System%20Design-0A66C2?style=flat-square)
 
-> ![](https://img.shields.io/badge/Enterprise-Intern-blue?style=flat-square)
->
-> ✓ Worked on data-driven problem solving and system design using Agile workflows.
->
-> ✓ Built prototypes and gained exposure to enterprise delivery practices.
+✓ Worked on data-driven problem solving and system design using Agile workflows.
 
----
+✓ Built prototypes and gained exposure to enterprise delivery practices.
 
-### 🌱 <img src="https://img.shields.io/badge/The%20Sparks%20Foundation-00C853?style=for-the-badge">
+</td>
+</tr>
 
-> ![](https://img.shields.io/badge/GRIP-Intern-success?style=flat-square)
->
-> ✓ Completed the Graduate Rotational Internship Program (GRIP).
->
-> ✓ Built supervised and unsupervised ML models and performed EDA on retail datasets.
+<tr><td colspan="2"><hr></td></tr>
 
----
+<tr>
+<td width="70" align="center">
+<img src="https://www.thesparksfoundationsingapore.org/images/logo_small.png" width="42">
+</td>
+<td>
 
-### 🤖 <img src="https://img.shields.io/badge/Inker-Robotics-FF6F00?style=for-the-badge">
+### The Sparks Foundation
+![](https://img.shields.io/badge/GRIP%20Intern-FF9800?style=for-the-badge)
+![](https://img.shields.io/badge/Machine%20Learning-4CAF50?style=flat-square)
+![](https://img.shields.io/badge/EDA-2196F3?style=flat-square)
 
-> ![](https://img.shields.io/badge/AI-Robotics-orange?style=flat-square)
->
-> ✓ Worked on applied AI and robotics systems.
->
-> ✓ Gained exposure to fuzzy logic, neural networks, and real-world AI use cases.
+✓ Completed the Graduate Rotational Internship Program (GRIP).
 
+✓ Built supervised and unsupervised ML models and performed EDA on retail datasets.
+
+</td>
+</tr>
+
+<tr><td colspan="2"><hr></td></tr>
+
+<tr>
+<td width="70" align="center">
+<img src="https://www.inker.ai/assets/logo.svg" width="42">
+</td>
+<td>
+
+### Inker Robotics
+![](https://img.shields.io/badge/AI%20Intern-8E24AA?style=for-the-badge)
+![](https://img.shields.io/badge/Robotics-E53935?style=flat-square)
+![](https://img.shields.io/badge/Neural%20Networks-00ACC1?style=flat-square)
+
+✓ Worked on applied AI and robotics systems.
+
+✓ Gained exposure to fuzzy logic, neural networks, and real-world AI use cases.
+
+</td>
+</tr>
+
+</table>
 ---
 
 ## 🤝 Volunteering
