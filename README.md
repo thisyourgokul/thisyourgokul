@@ -131,80 +131,34 @@
 
 ## 🤝 Volunteering
 
-<table>
+> ### <img src="https://cdn.simpleicons.org/acm/0085CA" width="22"/> ACM
+> ✓ Professional Member, supporting professional development and engagement with the global computing community.
 
-<tr>
-<td width="70" align="center">
-<img src="./assets/acm.png" width="48" alt="ACM Logo">
-</td>
-<td>
+---
 
-### ACM (Association for Computing Machinery)
+> ### <img src="https://cdn.simpleicons.org/ieee/00629B" width="22"/> IEEE
+> ✓ Volunteered for IEEE initiatives including **IEEEXtreme (15th and 16th Edition)**, **IEEE PES Day 2021**, and **IEEE Day 2021**.
+>
+> ✓ Served as Student Branch Secretary, managing records and supporting technical outreach.
 
-✓ Professional Member, supporting professional development and engagement with the global computing community.
+---
 
-</td>
-</tr>
+> ### 🚀 TinkerHub
+> ✓ Led campus initiatives by organizing technical events, mentoring members, and fostering a strong tech learning culture.
+>
+> ✓ Served as the campus ambassador for TinkerHub values and acted as the liaison with the Campus Council, submitting regular activity reports.
 
-<tr>
-<td width="70" align="center">
-<img src="./assets/ieee.png" width="48" alt="IEEE Logo">
-</td>
-<td>
+---
 
-### IEEE (Institute of Electrical and Electronics Engineers)
+> ### 💻 CoderDojo
+> ✓ Volunteered as mentor and trainer for Scratch workshops under the International CoderDojo initiative.
+>
+> ✓ Recognized with **Top Mentor Special Appreciation**.
 
-✓ Volunteered for IEEE initiatives including **IEEEXtreme (15th and 16th Edition)**, **IEEE PES Day 2021**, and **IEEE Day 2021**.
+---
 
-✓ Served as Student Branch Secretary, managing records and supporting technical outreach.
-
-</td>
-</tr>
-
-<tr>
-<td width="70" align="center">
-<img src="./assets/tinkerhub.png" width="48" alt="TinkerHub Logo">
-</td>
-<td>
-
-### TinkerHub
-
-✓ Led campus initiatives by organizing technical events, mentoring members, and fostering a strong tech learning culture.
-
-✓ Served as the campus ambassador for TinkerHub values and acted as the liaison with the Campus Council, submitting regular activity reports.
-
-</td>
-</tr>
-
-<tr>
-<td width="70" align="center">
-<img src="./assets/coderdojo.png" width="48" alt="CoderDojo Logo">
-</td>
-<td>
-
-### CoderDojo
-
-✓ Volunteered as mentor and trainer for Scratch workshops under the International CoderDojo initiative.
-
-✓ Recognized with **Top Mentor Special Appreciation**.
-
-</td>
-</tr>
-
-<tr>
-<td width="70" align="center">
-<img src="./assets/iedc.png" width="48" alt="IEDC Logo">
-</td>
-<td>
-
-### IEDC (Innovation and Entrepreneurship Development Cell)
-
-✓ Supported innovation-driven programs and student-led technical initiatives.
-
-</td>
-</tr>
-
-</table>
+> ### 💡 IEDC
+> ✓ Supported innovation-driven programs and student-led technical initiatives.
 
 ---
 
