@@ -174,7 +174,8 @@ in the **15th Edition of IEEEXtreme Programming Competition in 2021**.
 </table>
 
 </div>
-## 🎓 Internship Experience
+
+## 🎓 Internships
 
 <p align="left">
 <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=20&duration=3500&pause=1500&color=6F00FF&vCenter=true&repeat=true&width=280&lines=🏢+TCS+iON"/>
