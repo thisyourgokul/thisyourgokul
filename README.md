@@ -284,7 +284,6 @@
 
 </details>
 
----
 
 ---
 
@@ -292,35 +291,38 @@
 
 ```text
 ╔════════════════════════════════════════════════════════════════════╗
-║                     EXECUTIVE HIGHLIGHTS                          ║
+║                      EXECUTIVE HIGHLIGHTS                         ║
 ╚════════════════════════════════════════════════════════════════════╝
 ```
 
-◉ Built and maintained **enterprise dashboards** for HRMS, Admissions, Alumni, and Academic systems across **10+ campuses**.
+<br>
 
-◉ Automated reporting pipelines, reducing **manual effort by ~40%**.
+- Built and maintained **enterprise dashboards** for HRMS, Admissions, Alumni, and Academic systems across **10+ campuses**.
 
-◉ Performed **EDA** on complex datasets for leadership decision support.
+- Automated reporting pipelines, reducing **manual effort by ~40%**.
 
-◉ Developed ML models for **churn prediction, sentiment analysis, and approval automation**.
+- Performed **EDA** on complex datasets for leadership decision support.
 
-◉ Designed **self-service BI dashboards** for non-technical teams.
+- Developed ML models for **churn prediction, sentiment analysis, and approval automation**.
 
-◉ Integrated multi-source datasets for **Amrita Alumni Meetup 2024** analytics.
+- Designed **self-service BI dashboards** for non-technical teams.
 
-◉ Built an **Employee Information System prototype** using Agile practices in **TCS Jile**.
+- Integrated multi-source datasets for **Amrita Alumni Meetup 2024** analytics.
 
-◉ Delivered end-to-end ML projects during **GRIP**.
+- Built an **Employee Information System prototype** using Agile practices in **TCS Jile**.
 
-◉ Applied AI concepts including fuzzy logic and neural networks through **AICRA-certified programs**.
+- Delivered end-to-end ML projects during **GRIP**.
+
+- Applied AI concepts including fuzzy logic and neural networks through **AICRA-certified programs**.
+
+<br>
 
 ```text
 ╔════════════════════════════════════════════════════════════════════╗
-║  Enterprise Analytics • Business Intelligence • AI • Automation  ║
+║   Enterprise Analytics • Business Intelligence • AI • Automation  ║
 ╚════════════════════════════════════════════════════════════════════╝
 ```
 
----
 ---
 
 ## 📫 Connect
