@@ -286,18 +286,41 @@
 
 ---
 
+---
+
 ## 📌 Featured Work
 
-- Built and maintained **enterprise dashboards** for HRMS, Admissions, Alumni, and Academic systems across **10+ campuses**.
-- Automated reporting pipelines, reducing **manual effort by ~40%**.
-- Performed **EDA** on complex datasets for leadership decision support.
-- Developed ML models for **churn prediction, sentiment analysis, and approval automation**.
-- Designed **self-service BI dashboards** for non-technical teams.
-- Integrated multi-source datasets for **Amrita Alumni Meetup 2024** analytics.
-- Built an **Employee Information System prototype** using Agile practices in TCS Jile.
-- Delivered end-to-end ML projects during **GRIP**.
-- Applied AI concepts including fuzzy logic and neural networks through AICRA-certified programs.
+```text
+╔════════════════════════════════════════════════════════════════════╗
+║                     EXECUTIVE HIGHLIGHTS                          ║
+╚════════════════════════════════════════════════════════════════════╝
+```
 
+◉ Built and maintained **enterprise dashboards** for HRMS, Admissions, Alumni, and Academic systems across **10+ campuses**.
+
+◉ Automated reporting pipelines, reducing **manual effort by ~40%**.
+
+◉ Performed **EDA** on complex datasets for leadership decision support.
+
+◉ Developed ML models for **churn prediction, sentiment analysis, and approval automation**.
+
+◉ Designed **self-service BI dashboards** for non-technical teams.
+
+◉ Integrated multi-source datasets for **Amrita Alumni Meetup 2024** analytics.
+
+◉ Built an **Employee Information System prototype** using Agile practices in **TCS Jile**.
+
+◉ Delivered end-to-end ML projects during **GRIP**.
+
+◉ Applied AI concepts including fuzzy logic and neural networks through **AICRA-certified programs**.
+
+```text
+╔════════════════════════════════════════════════════════════════════╗
+║  Enterprise Analytics • Business Intelligence • AI • Automation  ║
+╚════════════════════════════════════════════════════════════════════╝
+```
+
+---
 ---
 
 ## 📫 Connect
