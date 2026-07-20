@@ -229,23 +229,60 @@
 
 ## 🚀 Top 5 Personal Projects (Data Science & AI)
 
-- **American Express Data Analysis**  
-  ✓ Built an Artificial Neural Network using TensorFlow and Keras, achieving 85% model
-accuracy for high-risk customer identification and risk modeling.
+<details open>
+<summary><b>📂 Project 01 • American Express Data Analysis</b></summary>
 
-- **Zomato Sentiment Analysis**  
-  ✓ Developed machine learning-based sentiment scoring to improve customer feedback anal-
-ysis turnaround by 40%.
+<br>
 
-- **Newsfeed Analysis in Tableau**  
-  ✓ Engineered an interactive Tableau dashboard to analyze student interaction patterns, delivering strategic product recommendations that optimized newsfeed content delivery to maximize user engagement and drive subscription renewals.
+> **Domain:** Finance • Risk Analytics
 
-- **Tableau Q&A Chatbot**  
-  ✓ Built a Retrieval-Augmented Generation (RAG) pipeline using Python, LangChain, and Chroma vector store to automate student support with context-aware OpenAI LLM responses.
+✓ Built an Artificial Neural Network using TensorFlow and Keras, achieving **85% model accuracy** for high-risk customer identification and risk modeling.
 
-- **Analyzing Unicorn Companies**  
-  ✓ Analyzed PostgreSQL unicorn-company data using SQL to identify industry-wise
-valuation trends, top-performing sectors, and annual unicorn growth from 2019–2021.
+</details>
+
+<details>
+<summary><b>📂 Project 02 • Zomato Sentiment Analysis</b></summary>
+
+<br>
+
+> **Domain:** Machine Learning • NLP
+
+✓ Developed machine learning-based sentiment scoring to improve customer feedback analysis turnaround by **40%**.
+
+</details>
+
+<details>
+<summary><b>📂 Project 03 • Newsfeed Analysis in Tableau</b></summary>
+
+<br>
+
+> **Domain:** Business Intelligence • Data Visualization
+
+✓ Engineered an interactive Tableau dashboard to analyze student interaction patterns, delivering strategic product recommendations that optimized newsfeed content delivery to maximize user engagement and drive subscription renewals.
+
+</details>
+
+<details>
+<summary><b>📂 Project 04 • Tableau Q&A Chatbot</b></summary>
+
+<br>
+
+> **Domain:** Generative AI • RAG
+
+✓ Built a Retrieval-Augmented Generation (RAG) pipeline using Python, LangChain, and Chroma vector store to automate student support with context-aware OpenAI LLM responses.
+
+</details>
+
+<details>
+<summary><b>📂 Project 05 • Analyzing Unicorn Companies</b></summary>
+
+<br>
+
+> **Domain:** SQL • Data Analytics
+
+✓ Analyzed PostgreSQL unicorn-company data using SQL to identify industry-wise valuation trends, top-performing sectors, and annual unicorn growth from 2019–2021.
+
+</details>
 
 ---
 
