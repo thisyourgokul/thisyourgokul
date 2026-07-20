@@ -114,11 +114,17 @@
 ---
 
 ## 🎓 Internship Experience
+## 🎓 Internship Experience
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=20&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Enterprise+Experience;Machine+Learning+Projects;AI+%26+Robotics+Innovation" />
+</p>
 
 ### 🏢 TCS iON
+
 ![](https://img.shields.io/badge/Enterprise%20Intern-005792?style=for-the-badge)
-![](https://img.shields.io/badge/Agile-0052CC?style=flat-square)
-![](https://img.shields.io/badge/System%20Design-1976D2?style=flat-square)
+![](https://img.shields.io/badge/Agile-blue?style=flat-square)
+![](https://img.shields.io/badge/System%20Design-0A66C2?style=flat-square)
 
 ✓ Worked on data-driven problem solving and system design using Agile workflows.
 
@@ -127,8 +133,9 @@
 ---
 
 ### 🚀 The Sparks Foundation
-![](https://img.shields.io/badge/GRIP%20Intern-FF9800?style=for-the-badge)
-![](https://img.shields.io/badge/Machine%20Learning-4CAF50?style=flat-square)
+
+![](https://img.shields.io/badge/GRIP%20Intern-orange?style=for-the-badge)
+![](https://img.shields.io/badge/Machine%20Learning-success?style=flat-square)
 ![](https://img.shields.io/badge/EDA-03A9F4?style=flat-square)
 
 ✓ Completed the Graduate Rotational Internship Program (GRIP).
@@ -138,9 +145,10 @@
 ---
 
 ### 🤖 Inker Robotics
-![](https://img.shields.io/badge/AI%20Intern-8E24AA?style=for-the-badge)
-![](https://img.shields.io/badge/Robotics-E53935?style=flat-square)
-![](https://img.shields.io/badge/Neural%20Networks-00ACC1?style=flat-square)
+
+![](https://img.shields.io/badge/AI%20Intern-purple?style=for-the-badge)
+![](https://img.shields.io/badge/Robotics-red?style=flat-square)
+![](https://img.shields.io/badge/Neural%20Networks-00BCD4?style=flat-square)
 
 ✓ Worked on applied AI and robotics systems.
 
