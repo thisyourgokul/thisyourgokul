@@ -159,15 +159,6 @@
 
 ✓ Gained exposure to fuzzy logic, neural networks, and real-world AI use cases.
 
-### 🤖 Inker Robotics
-
-![](https://img.shields.io/badge/AI%20Intern-purple?style=for-the-badge)
-![](https://img.shields.io/badge/Robotics-red?style=flat-square)
-![](https://img.shields.io/badge/Neural%20Networks-00BCD4?style=flat-square)
-
-✓ Worked on applied AI and robotics systems.
-
-✓ Gained exposure to fuzzy logic, neural networks, and real-world AI use cases.
 
 ## 🤝 Volunteering
 
