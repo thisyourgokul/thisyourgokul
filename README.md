@@ -8,14 +8,47 @@
 
 ## 👋 About Me
 
-Purpose-driven **Data Analyst** with hands-on experience in SQL, Python, Excel, and BI tools.  
-I build dashboards, automate reporting, and deliver decision-ready insights across teams.  
-Currently focused on **AI-driven analytics, Generative AI, and applied Machine Learning** for forecasting and advanced data storytelling.
+<table>
+<tr>
+<td><b>💼 Current Role</b></td>
+<td><img src="https://img.shields.io/badge/Junior-Data%20Analyst-2E86DE?style=flat-square"></td>
+</tr>
 
-**Current Position:** **Junior Data Analyst**  
-**Organization:** **Amrita Vishwa Vidyapeetham**, Department of **E-Governance**
+<tr>
+<td><b>🏢 Organization</b></td>
+<td>Amrita Vishwa Vidyapeetham (Deemed to be University)</td>
+</tr>
 
----
+<tr>
+<td><b>📍 Location</b></td>
+<td>Kerala, India 🌴🇮🇳</td>
+</tr>
+
+<tr>
+<td><b>💼 Experience</b></td>
+<td><img src="https://img.shields.io/badge/2.5%2B-Years-success?style=flat-square"></td>
+</tr>
+
+<tr>
+<td><b>🎯 Specialization</b></td>
+<td>Data Analytics • Business Intelligence • AI-driven Analytics</td>
+</tr>
+
+<tr>
+<td><b>🛠 Core Stack</b></td>
+<td>SQL • Python • Power BI • Tableau • Excel</td>
+</tr>
+
+<tr>
+<td><b>🌱 Currently Learning</b></td>
+<td>Databricks • Snowflake • Apache Spark • Agentic AI</td>
+</tr>
+
+<tr>
+<td><b>🚀 Open To</b></td>
+<td><img src="https://img.shields.io/badge/New%20Opportunities-Available-brightgreen?style=for-the-badge"></td>
+</tr>
+</table>
 
 ## 🧰 Tech Stack
 
