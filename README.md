@@ -183,7 +183,7 @@
 ---
 
 ### 💻 CoderDojo
-![](https://img.shields.io/badge/Top%20Mentor-F57C00?style=for-the-badge)
+![](https://img.shields.io/badge/Mentor-F57C00?style=for-the-badge)
 
 ✓ Volunteered as mentor and trainer for Scratch workshops under the International CoderDojo initiative.
 
