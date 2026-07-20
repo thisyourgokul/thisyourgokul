@@ -36,7 +36,7 @@
 
 <tr>
 <td><b>🛠 Core Stack</b></td>
-<td>SQL • Python • Power BI • Tableau • Excel</td>
+<td>SQL • Python • Power BI • Tableau • Metabase • Excel</td>
 </tr>
 
 <tr>
