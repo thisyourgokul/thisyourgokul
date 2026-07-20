@@ -305,14 +305,14 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=42&color=gradient&customColorList=29,10&text=📌%20Featured%20Work&fontSize=24&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-```text
+```
 ╭──────────────────────────────────────────────────────────────╮
 │                   CONTRIBUTION LEDGER                                   │
 ╰──────────────────────────────────────────────────────────────╯
 ```
 
 📊 **Enterprise Dashboards**  
-Built and maintained **enterprise dashboards** for HRMS, Admissions, Alumni, and Academic systems across **10+ campuses**.
+Built and maintained **enterprise dashboards** for HRMS, Admissions, Admin, Finance and Academic systems across **10+ campuses**.
 
 ⚙️ **Reporting Automation**  
 Automated reporting pipelines, reducing **manual effort by ~40%**.
