@@ -115,58 +115,29 @@
 
 ## 🎓 Internship Experience
 
-<table>
-
-<tr>
-<td width="70" align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Tata_Consultancy_Services_Logo.svg" width="48" alt="TCS">
-</td>
-<td>
-
-### TCS iON
-
+### 🏢 TCS iON
 ![](https://img.shields.io/badge/Enterprise%20Intern-005792?style=for-the-badge)
 ![](https://img.shields.io/badge/Agile-0052CC?style=flat-square)
-![](https://img.shields.io/badge/System%20Design-1565C0?style=flat-square)
+![](https://img.shields.io/badge/System%20Design-1976D2?style=flat-square)
 
 ✓ Worked on data-driven problem solving and system design using Agile workflows.
 
 ✓ Built prototypes and gained exposure to enterprise delivery practices.
 
-</td>
-</tr>
+---
 
-<tr><td colspan="2"><hr></td></tr>
-
-<tr>
-<td width="70" align="center">
-<img src="https://raw.githubusercontent.com/TheSparkFoundation/TSF-Internship-Tasks/master/logo.png" width="48" alt="The Sparks Foundation">
-</td>
-<td>
-
-### The Sparks Foundation
-
+### 🚀 The Sparks Foundation
 ![](https://img.shields.io/badge/GRIP%20Intern-FF9800?style=for-the-badge)
 ![](https://img.shields.io/badge/Machine%20Learning-4CAF50?style=flat-square)
-![](https://img.shields.io/badge/EDA-2196F3?style=flat-square)
+![](https://img.shields.io/badge/EDA-03A9F4?style=flat-square)
 
 ✓ Completed the Graduate Rotational Internship Program (GRIP).
 
 ✓ Built supervised and unsupervised ML models and performed EDA on retail datasets.
 
-</td>
-</tr>
+---
 
-<tr><td colspan="2"><hr></td></tr>
-
-<tr>
-<td width="70" align="center">
-<img src="https://www.inkerrobotics.com/wp-content/uploads/2022/09/logo.png" width="48" alt="Inker Robotics">
-</td>
-<td>
-
-### Inker Robotics
-
+### 🤖 Inker Robotics
 ![](https://img.shields.io/badge/AI%20Intern-8E24AA?style=for-the-badge)
 ![](https://img.shields.io/badge/Robotics-E53935?style=flat-square)
 ![](https://img.shields.io/badge/Neural%20Networks-00ACC1?style=flat-square)
@@ -174,11 +145,6 @@
 ✓ Worked on applied AI and robotics systems.
 
 ✓ Gained exposure to fuzzy logic, neural networks, and real-world AI use cases.
-
-</td>
-</tr>
-
-</table>
 
 ## 🤝 Volunteering
 
