@@ -132,11 +132,10 @@
 ## 🤝 Volunteering
 
 <table>
+
 <tr>
-<td width="60">
-
-<img src="https://cdn.simpleicons.org/acm/0085CA" width="45"/>
-
+<td width="70" align="center">
+<img src="./assets/acm.png" width="48" alt="ACM Logo">
 </td>
 <td>
 
@@ -148,10 +147,8 @@
 </tr>
 
 <tr>
-<td>
-
-<img src="https://cdn.simpleicons.org/ieee/00629B" width="45"/>
-
+<td width="70" align="center">
+<img src="./assets/ieee.png" width="48" alt="IEEE Logo">
 </td>
 <td>
 
@@ -165,10 +162,8 @@
 </tr>
 
 <tr>
-<td>
-
-<img src="https://avatars.githubusercontent.com/u/65916846?s=200&v=4" width="45"/>
-
+<td width="70" align="center">
+<img src="./assets/tinkerhub.png" width="48" alt="TinkerHub Logo">
 </td>
 <td>
 
@@ -182,10 +177,8 @@
 </tr>
 
 <tr>
-<td>
-
-<img src="https://avatars.githubusercontent.com/u/12727409?s=200&v=4" width="45"/>
-
+<td width="70" align="center">
+<img src="./assets/coderdojo.png" width="48" alt="CoderDojo Logo">
 </td>
 <td>
 
@@ -199,10 +192,8 @@
 </tr>
 
 <tr>
-<td>
-
-<img src="https://img.icons8.com/color/96/innovation.png" width="45"/>
-
+<td width="70" align="center">
+<img src="./assets/iedc.png" width="48" alt="IEDC Logo">
 </td>
 <td>
 
@@ -212,6 +203,7 @@
 
 </td>
 </tr>
+
 </table>
 
 ---
