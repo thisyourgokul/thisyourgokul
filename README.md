@@ -166,7 +166,7 @@
 ---
 
 ### 💡 IEDC (Innovation and Entrepreneurship Development Cell)
-![](https://img.shields.io/badge/Innovation%20Volunteer-8E24AA?style=for-the-badge)
+![](https://img.shields.io/badge/Chief%20Creative%20Officer-8E24AA?style=for-the-badge)
 
 ✓ Supported innovation-driven programs and student-led technical initiatives.
 
