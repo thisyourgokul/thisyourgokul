@@ -115,54 +115,45 @@
 
 ## 🎓 Internship Experience
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=24&duration=2500&pause=900&color=00F5FF&center=true&vCenter=true&width=720&lines=🏢+TCS+iON;Enterprise+Systems+%7C+Agile+Development;Building+Enterprise+Solutions"/>
+<p align="left">
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=20&duration=3500&pause=1500&color=6F00FF&vCenter=true&repeat=true&width=280&lines=🏢+TCS+iON"/>
 </p>
 
-![](https://img.shields.io/badge/Enterprise%20Intern-00F5FF?style=for-the-badge)
-![](https://img.shields.io/badge/Agile-00D9FF?style=flat-square)
-![](https://img.shields.io/badge/System%20Design-7DF9FF?style=flat-square)
+![](https://img.shields.io/badge/Enterprise%20Intern-6F00FF?style=for-the-badge)
+![](https://img.shields.io/badge/Agile-7B2CBF?style=flat-square)
+![](https://img.shields.io/badge/System%20Design-8E44AD?style=flat-square)
 
 ✓ Worked on data-driven problem solving and system design using Agile workflows.
 
 ✓ Built prototypes and gained exposure to enterprise delivery practices.
 
-<p align="center">
+<br>
 
-![](https://img.shields.io/badge/════════════════════════════════════-00F5FF?style=flat)
-
+<p align="left">
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=20&duration=3500&pause=1500&color=C2185B&vCenter=true&repeat=true&width=450&lines=🚀+The+Sparks+Foundation"/>
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=24&duration=2500&pause=900&color=FF00E5&center=true&vCenter=true&width=720&lines=🚀+The+Sparks+Foundation;Graduate+Rotational+Internship;Machine+Learning+%7C+EDA"/>
-</p>
-
-![](https://img.shields.io/badge/GRIP%20Intern-FF00E5?style=for-the-badge)
-![](https://img.shields.io/badge/Machine%20Learning-FF4DFF?style=flat-square)
-![](https://img.shields.io/badge/EDA-FF7AF6?style=flat-square)
+![](https://img.shields.io/badge/GRIP%20Intern-C2185B?style=for-the-badge)
+![](https://img.shields.io/badge/Machine%20Learning-D81B60?style=flat-square)
+![](https://img.shields.io/badge/EDA-E91E63?style=flat-square)
 
 ✓ Completed the Graduate Rotational Internship Program (GRIP).
 
 ✓ Built supervised and unsupervised ML models and performed EDA on retail datasets.
 
-<p align="center">
+<br>
 
-![](https://img.shields.io/badge/════════════════════════════════════-FF00E5?style=flat)
-
+<p align="left">
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=20&duration=3500&pause=1500&color=00796B&vCenter=true&repeat=true&width=330&lines=🤖+Inker+Robotics"/>
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=24&duration=2500&pause=900&color=B6FF00&center=true&vCenter=true&width=720&lines=🤖+Inker+Robotics;Applied+AI+%26+Robotics;Neural+Networks+%7C+Fuzzy+Logic"/>
-</p>
-
-![](https://img.shields.io/badge/AI%20Intern-B6FF00?style=for-the-badge)
-![](https://img.shields.io/badge/Robotics-D4FF00?style=flat-square)
-![](https://img.shields.io/badge/Neural%20Networks-EAFF70?style=flat-square)
+![](https://img.shields.io/badge/AI%20Intern-00796B?style=for-the-badge)
+![](https://img.shields.io/badge/Robotics-00897B?style=flat-square)
+![](https://img.shields.io/badge/Neural%20Networks-009688?style=flat-square)
 
 ✓ Worked on applied AI and robotics systems.
 
 ✓ Gained exposure to fuzzy logic, neural networks, and real-world AI use cases.
-
 
 ## 🤝 Volunteering
 
