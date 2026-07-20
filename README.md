@@ -142,7 +142,7 @@
 
 <br>
 
-- **Competition:** IEEEXtreme Programming Competition
+- **Competition:** An annual 24-hour hackathon and competitive programming challenge where teams of IEEE Student and Graduate Student members compete globally to solve algorithmic problems.
 - **Edition:** 15th
 - **Year:** 2021
 - **Global Rank:** 820
