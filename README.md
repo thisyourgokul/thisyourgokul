@@ -103,72 +103,46 @@
 </p>
 
 ## 🏆 Achievements
+## 🏆 Achievements
 
-<div align="center">
-
-<table>
-<tr>
-
-<td width="33%" valign="top" align="center">
-
-# 👨‍🏫
-### **Top Mentor**
-##### *Special Appreciation*
-
-━━━━━━━━━━━━━━━━━━
-
-**International CoderDojo Initiative**
+<details open>
+<summary><b>👨‍🏫 Top Mentor Special Appreciation</b></summary>
 
 <br>
+
+**Organization:** International CoderDojo Initiative
 
 🏅 Top Mentor Special Appreciation for training and mentorship in the Scratch Workshop Series (*Come and Code*).
 
-</td>
+</details>
 
-<td width="33%" valign="top" align="center">
-
-# ☁️
-### **Code Vipassana**
-##### *Technical Excellence*
-
-━━━━━━━━━━━━━━━━━━
-
-🛡️ **Troubleshooter Badge** — Season 11
+<details>
+<summary><b>☁️ Code Vipassana Excellence</b></summary>
 
 <br>
+
+🛡️ **Troubleshooter Badge** — Season 11
 
 ⭐ **Exceptional Performance** — Seasons **13, 14 & 15**
 
 Successfully completed **all labs consecutively** across all three seasons.
 
-<br>
-
 Instructor-led program focused on various applications of **Google Cloud Platform**.
 
-</td>
+</details>
 
-<td width="33%" valign="top" align="center">
+<details>
+<summary><b>🌍 IEEEXtreme Programming Competition</b></summary>
 
-# 🌍
-### **IEEEXtreme**
-##### *Programming Competition*
-
-━━━━━━━━━━━━━━━━━━
+<br>
 
 🥈 **Global Rank:** **820**
 
 🇮🇳 **India Rank:** **144**
 
-<br>
+**15th Edition • 2021**
 
-15th Edition • 2021
-
-</td>
-
-</tr>
-</table>
-
-</div>
+</details>
 
 ## 🎓 Internships
 
