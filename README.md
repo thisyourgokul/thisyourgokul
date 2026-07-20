@@ -289,39 +289,29 @@
 
 ## 📌 Featured Work
 
-```text
-╔════════════════════════════════════════════════════════════════════╗
-║                      EXECUTIVE HIGHLIGHTS                         ║
-╚════════════════════════════════════════════════════════════════════╝
+```
+╭──────────────────────────────────────────────────────────────╮
+│                   CONTRIBUTION LEDGER                                   │  
+╰──────────────────────────────────────────────────────────────╯
 ```
 
-<br>
+【001】 Built and maintained **enterprise dashboards** for HRMS, Admissions, Alumni, and Academic systems across **10+ campuses**.
 
-- Built and maintained **enterprise dashboards** for HRMS, Admissions, Alumni, and Academic systems across **10+ campuses**.
+【002】 Automated reporting pipelines, reducing **manual effort by ~40%**.
 
-- Automated reporting pipelines, reducing **manual effort by ~40%**.
+【003】 Performed **EDA** on complex datasets for leadership decision support.
 
-- Performed **EDA** on complex datasets for leadership decision support.
+【004】 Developed ML models for **churn prediction, sentiment analysis, and approval automation**.
 
-- Developed ML models for **churn prediction, sentiment analysis, and approval automation**.
+【005】 Designed **self-service BI dashboards** for non-technical teams.
 
-- Designed **self-service BI dashboards** for non-technical teams.
+【006】 Integrated multi-source datasets for **Amrita Alumni Meetup 2024** analytics.
 
-- Integrated multi-source datasets for **Amrita Alumni Meetup 2024** analytics.
+【007】 Built an **Employee Information System prototype** using Agile practices in **TCS Jile**.
 
-- Built an **Employee Information System prototype** using Agile practices in **TCS Jile**.
+【008】 Delivered end-to-end ML projects during **GRIP**.
 
-- Delivered end-to-end ML projects during **GRIP**.
-
-- Applied AI concepts including fuzzy logic and neural networks through **AICRA-certified programs**.
-
-<br>
-
-```text
-╔════════════════════════════════════════════════════════════════════╗
-║   Enterprise Analytics • Business Intelligence • AI • Automation  ║
-╚════════════════════════════════════════════════════════════════════╝
-```
+【009】 Applied AI concepts including fuzzy logic and neural networks through **AICRA-certified programs**.
 
 ---
 
