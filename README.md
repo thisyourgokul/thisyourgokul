@@ -116,16 +116,18 @@
 ## 🎓 Internship Experience
 
 <table>
+
 <tr>
 <td width="70" align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/TCS_Logo.svg" width="42">
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Tata_Consultancy_Services_Logo.svg" width="48" alt="TCS">
 </td>
 <td>
 
 ### TCS iON
+
 ![](https://img.shields.io/badge/Enterprise%20Intern-005792?style=for-the-badge)
 ![](https://img.shields.io/badge/Agile-0052CC?style=flat-square)
-![](https://img.shields.io/badge/System%20Design-0A66C2?style=flat-square)
+![](https://img.shields.io/badge/System%20Design-1565C0?style=flat-square)
 
 ✓ Worked on data-driven problem solving and system design using Agile workflows.
 
@@ -138,11 +140,12 @@
 
 <tr>
 <td width="70" align="center">
-<img src="https://www.thesparksfoundationsingapore.org/images/logo_small.png" width="42">
+<img src="https://raw.githubusercontent.com/TheSparkFoundation/TSF-Internship-Tasks/master/logo.png" width="48" alt="The Sparks Foundation">
 </td>
 <td>
 
 ### The Sparks Foundation
+
 ![](https://img.shields.io/badge/GRIP%20Intern-FF9800?style=for-the-badge)
 ![](https://img.shields.io/badge/Machine%20Learning-4CAF50?style=flat-square)
 ![](https://img.shields.io/badge/EDA-2196F3?style=flat-square)
@@ -158,11 +161,12 @@
 
 <tr>
 <td width="70" align="center">
-<img src="https://www.inker.ai/assets/logo.svg" width="42">
+<img src="https://www.inkerrobotics.com/wp-content/uploads/2022/09/logo.png" width="48" alt="Inker Robotics">
 </td>
 <td>
 
 ### Inker Robotics
+
 ![](https://img.shields.io/badge/AI%20Intern-8E24AA?style=for-the-badge)
 ![](https://img.shields.io/badge/Robotics-E53935?style=flat-square)
 ![](https://img.shields.io/badge/Neural%20Networks-00ACC1?style=flat-square)
@@ -175,7 +179,6 @@
 </tr>
 
 </table>
----
 
 ## 🤝 Volunteering
 
