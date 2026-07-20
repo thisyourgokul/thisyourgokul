@@ -104,46 +104,44 @@
 
 ## 🏆 Achievements
 
+<div align="center">
+
 <table>
 <tr>
 
 <td width="33%" align="center">
 
-### 👨‍🏫
+# 🌌
 
-## Top Mentor
+### Top Mentor
 
-<sub><b>Special Appreciation</b></sub>
+<img src="https://img.shields.io/badge/★%20SPECIAL%20APPRECIATION-5B21B6?style=plastic">
 
-<br>
+<img src="https://img.shields.io/badge/CoderDojo-EC4899?style=plastic">
 
-International CoderDojo Initiative
+<img src="https://img.shields.io/badge/Mentorship-A855F7?style=plastic">
 
 <br><br>
 
-🏅
-
-Top Mentor Special Appreciation for training and mentorship in the Scratch Workshop Series (*Come and Code*).
+Top Mentor Special Appreciation for training and mentorship in the Scratch Workshop Series (International CoderDojo Initiative – *Come and Code*).
 
 </td>
 
 <td width="33%" align="center">
 
-### 🛠️
+# ⚙️
 
-## Troubleshooter
+### Troubleshooter
 
-<sub><b>Code Vipassana</b></sub>
+<img src="https://img.shields.io/badge/🛡️%20BADGE-0F766E?style=plastic">
 
-<br>
+<img src="https://img.shields.io/badge/Season%2011-0891B2?style=plastic">
 
-Season 11
+<img src="https://img.shields.io/badge/Google%20Cloud-0EA5E9?style=plastic">
 
 <br><br>
 
-🛡️
-
-Troubleshooter Badge.
+Troubleshooter Badge, Code Vipassana Season 11.
 
 Instructor-led program focused on various applications of Google Cloud Platform.
 
@@ -151,23 +149,23 @@ Instructor-led program focused on various applications of Google Cloud Platform.
 
 <td width="33%" align="center">
 
-### 🌍
+# 🌠
 
-## IEEEXtreme
+### IEEEXtreme
 
-<sub><b>Programming Competition</b></sub>
+<img src="https://img.shields.io/badge/🌍%20GLOBAL%20820-DC2626?style=plastic">
 
-<br>
+<img src="https://img.shields.io/badge/🇮🇳%20INDIA%20144-E11D48?style=plastic">
 
-15th Edition • 2021
+<img src="https://img.shields.io/badge/2021-F97316?style=plastic">
 
 <br><br>
-
-🥈
 
 Global Rank **820**
 
 India Rank **144**
+
+in the **15th Edition of IEEEXtreme Programming Competition in 2021**.
 
 </td>
 
@@ -175,6 +173,7 @@ India Rank **144**
 
 </table>
 
+</div>
 ## 🎓 Internship Experience
 
 <p align="left">
