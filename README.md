@@ -215,7 +215,7 @@
 ---
 
 ### <img src="https://cdn.simpleicons.org/ieee/00629B" width="26" valign="middle"> IEEE (Institute of Electrical and Electronics Engineers)
-![](https://img.shields.io/badge/Student%20Branch%20Secretary-00629B?style=for-the-badge)
+![](https://img.shields.io/badge/Student%20Member,%20Professional%20-00629B?style=for-the-badge)
 
 ✓ Volunteered for IEEE initiatives as Ambassador and Proctor including **IEEEXtreme (15th and 16th Edition)**, **IEEE PES Day 2021**, and **IEEE Day 2021**.
 
