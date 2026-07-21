@@ -198,6 +198,8 @@
 
 ✓ Gained exposure to fuzzy logic, neural networks, and real-world AI use cases.
 
+---
+
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=42&color=gradient&customColorList=5,22&text=🤝%20Volunteering&fontSize=24&fontColor=ffffff&animation=fadeIn" />
 </p>
