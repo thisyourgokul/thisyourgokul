@@ -168,6 +168,8 @@
 
 <br>
 
+---
+
 <p align="left">
 <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=20&duration=3500&pause=1500&color=C2185B&vCenter=true&repeat=true&width=450&lines=🚀+The+Sparks+Foundation"/>
 </p>
@@ -181,6 +183,8 @@
 ✓ Built supervised and unsupervised ML models and performed EDA on retail datasets.
 
 <br>
+
+---
 
 <p align="left">
 <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=20&duration=3500&pause=1500&color=00796B&vCenter=true&repeat=true&width=330&lines=🤖+Inker+Robotics"/>
