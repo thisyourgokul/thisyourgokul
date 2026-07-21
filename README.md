@@ -256,7 +256,15 @@
 ### 💡 IEDC (Innovation and Entrepreneurship Development Cell)
 ![](https://img.shields.io/badge/Chief%20Creative%20Officer-8E24AA?style=for-the-badge)
 
-✓ Supported innovation-driven programs and student-led technical initiatives at College of Engineering Kidangoor.
+✓ Served as **Chief Creative Officer** at the **Innovation and Entrepreneurship Development Cell (IEDC)**, College of Engineering Kidangoor.
+
+✓ Actively coordinated **IEDC EXULT 2021**, a multi-day innovation and entrepreneurship event, contributing to its successful planning and execution.
+
+✓ Supported innovation-driven programs, entrepreneurship initiatives, and student-led technical activities across the campus.
+
+✓ Volunteered with the **Community Expo Team** during the **IEDC Summit 2022**, helping deliver one of Kerala's flagship innovation events.
+
+✓ Collaborated with organizers, volunteers, and participants to promote innovation, entrepreneurship, and student engagement.
 
 ---
 
