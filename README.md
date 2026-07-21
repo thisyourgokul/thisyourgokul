@@ -131,7 +131,7 @@
 - **Season:** 11
 - **Program:** Instructor-led program focused on various applications of **Google Cloud Platform**.
 - **Additional Recognition:** Exceptional Performance
-- **Seasons:** 10, 13, 14 and 15
+- **Seasons:** 10, 11, 13, 14 and 15
 - **Achievement:** Successfully completed **all labs** across all participated seasons.
 
 </details>
