@@ -381,7 +381,7 @@ Designed and developed an Employee Information System using Agile methodology, a
 ### 🧠 End-to-End Machine Learning
 Delivered complete machine learning workflows including data preprocessing, feature engineering, model development, evaluation, and visualization.
 
-- **🚀 Artificial Intelligence**
+**🚀 Artificial Intelligence**
 
   Applied neural networks, fuzzy logic, and AI-driven problem-solving techniques to intelligent systems, robotics, and automation use cases.
 ---
