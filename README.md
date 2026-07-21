@@ -56,6 +56,8 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=42&color=gradient&customColorList=31,6&text=🧰%20Tech%20Stack&fontSize=24&fontColor=ffffff&animation=fadeIn" />
 </p>
 
+---
+
 <p align="left">
   <!-- Languages & Version Control -->
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -89,6 +91,8 @@
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=42&color=gradient&customColorList=18,30&text=🏷️%20Focus%20Areas&fontSize=24&fontColor=ffffff&animation=fadeIn" />
 </p>
+
+---
 
 <p align="left">
   <!-- Strategy & Soft Skills -->
