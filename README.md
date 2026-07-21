@@ -214,21 +214,21 @@
 
 ---
 
-### 🚀 TinkerHub
-![](https://img.shields.io/badge/Campus%20Lead-00C853?style=for-the-badge)
-
-✓ Led campus initiatives by organizing technical events, mentoring members, and fostering a strong tech learning culture.
-
-✓ Served as the campus ambassador for TinkerHub values and acted as the liaison with the Campus Council, submitting regular activity reports.
-
----
-
 ### 💻 CoderDojo
 ![](https://img.shields.io/badge/Mentor-F57C00?style=for-the-badge)
 
 ✓ Volunteered as mentor and trainer for Scratch workshops under the International CoderDojo initiative.
 
 ✓ Recognized with **Top Mentor Special Appreciation**.
+
+---
+
+### 🚀 TinkerHub
+![](https://img.shields.io/badge/Campus%20Lead-00C853?style=for-the-badge)
+
+✓ Led campus initiatives by organizing technical events, mentoring members, and fostering a strong tech learning culture.
+
+✓ Served as the campus ambassador for TinkerHub values and acted as the liaison with the Campus Council, submitting regular activity reports.
 
 ---
 
