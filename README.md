@@ -357,33 +357,32 @@
 ╰──────────────────────────────────────────────────────────────╯
 ```
 
-📊 **Enterprise Dashboards**  
-Built and maintained **enterprise dashboards** for HRMS, Admissions, Admin, Finance and Academic systems across **10+ campuses**.
+### 📊 Enterprise Analytics
+Built and maintained enterprise dashboards and KPI reports supporting HRMS, Admissions, Finance, Administration, and Academic operations across 10+ campuses.
 
-⚙️ **Reporting Automation**  
-Automated reporting pipelines, reducing **manual effort by ~40%**.
+### ⚙️ Data Automation
+Automated SQL-based reporting workflows and ETL pipelines, reducing manual reporting effort by approximately 40%.
 
-🔍 **Exploratory Data Analysis**  
-Performed **EDA** on complex datasets for leadership decision support.
+### 🔍 Decision Intelligence
+Performed exploratory data analysis (EDA), data validation, and statistical profiling to uncover trends, anomalies, and actionable business insights.
 
-🤖 **Machine Learning**  
-Developed ML models for **churn prediction, sentiment analysis, and approval automation**.
+### 🤖 Predictive Analytics
+Developed machine learning solutions for classification, prediction, clustering, and business process automation using supervised and unsupervised learning.
 
-📈 **Business Intelligence**  
-Designed **self-service BI dashboards** for non-technical teams.
+### 📈 Business Intelligence
+Designed interactive self-service dashboards that transformed operational data into decision-ready insights for business stakeholders.
 
-🎓 **Alumni Analytics**  
-Integrated multi-source datasets for **Amrita Alumni Meetup 2024** analytics.
+### 🎓 Institutional Analytics
+Integrated and analyzed multi-source datasets to support Amrita Alumni Meetup 2024 planning and institutional reporting.
 
-💼 **Enterprise Application**  
-Built an **Employee Information System prototype** using Agile practices in **TCS Jile**.
+### 🏢 Enterprise Software Engineering
+Designed and developed an Employee Information System prototype using Agile methodology, applying sprint planning, backlog management, and iterative software delivery with TCS Jile.
 
-🧠 **End-to-End ML Projects**  
-Delivered end-to-end ML projects during **GRIP**.
+### 🧠 End-to-End Machine Learning
+Delivered complete ML workflows during GRIP, including data preprocessing, EDA, feature engineering, model development, evaluation, and visualization.
 
-🚀 **Artificial Intelligence**  
-Applied AI concepts including fuzzy logic and neural networks through **AICRA-certified programs**.
-
+### 🚀 Artificial Intelligence
+Applied AI concepts including neural networks, fuzzy logic, and intelligent problem-solving techniques through hands-on robotics and AI projects.
 ---
 
 <p align="left">
