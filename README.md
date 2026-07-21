@@ -108,6 +108,8 @@
   <img src="https://img.shields.io/badge/Data%20Storytelling%20%26%20Communication-E34F26?style=for-the-badge" />
 </p>
 
+---
+
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=42&color=gradient&customColorList=2,17&text=🏆%20Achievements&fontSize=24&fontColor=ffffff&animation=fadeIn" />
 </p>
@@ -149,6 +151,8 @@
 - **India Rank:** 144
 
 </details>
+
+---
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=42&color=gradient&customColorList=26,9&text=🎓%20Internships&fontSize=24&fontColor=ffffff&animation=fadeIn" />
