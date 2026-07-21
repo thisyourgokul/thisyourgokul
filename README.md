@@ -242,7 +242,7 @@
 
 ✓ Mentored multiple cohorts through interactive online workshops and project presentations.
 
-✓ Awarded the **Top Mentor Special Appreciation Award** for mentoring excellence.
+✓ Awarded with the title **"Top Mentor Special Appreciation"** for mentoring excellence.
 
 ---
 
