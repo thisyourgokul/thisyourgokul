@@ -149,11 +149,11 @@
 
 </details>
 
----
-
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=42&color=gradient&customColorList=26,9&text=🎓%20Internships&fontSize=24&fontColor=ffffff&animation=fadeIn" />
 </p>
+
+---
 
 <p align="left">
 <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=20&duration=3500&pause=1500&color=6F00FF&vCenter=true&repeat=true&width=280&lines=🏢+TCS+iON"/>
