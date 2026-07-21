@@ -200,9 +200,13 @@
 ![](https://img.shields.io/badge/Robotics-00897B?style=flat-square)
 ![](https://img.shields.io/badge/Neural%20Networks-009688?style=flat-square)
 
-✓ Worked on applied AI and robotics systems.
+✓ Completed an **AI & Machine Learning Internship** focused on intelligent systems and robotics.
 
-✓ Gained exposure to fuzzy logic, neural networks, and real-world AI use cases.
+✓ Applied AI concepts to understand real-world problem-solving in automation and industrial applications.
+
+✓ Built a strong foundation in **Machine Learning**, **Neural Networks**, and **Fuzzy Logic** for intelligent decision-making.
+
+✓ Explored how AI enhances robotics through pattern recognition, prediction, and autonomous system behavior.
 
 ---
 
