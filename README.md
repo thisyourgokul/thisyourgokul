@@ -217,9 +217,17 @@
 ### <img src="https://cdn.simpleicons.org/ieee/00629B" width="26" valign="middle"> IEEE (Institute of Electrical and Electronics Engineers)
 ![](https://img.shields.io/badge/Student%20Member,%20Professional%20Member-00629B?style=for-the-badge)
 
-✓ Volunteered for IEEE initiatives as Ambassador and Proctor including **IEEEXtreme (15th and 16th Edition)**, **IEEE PES Day 2021**, and **IEEE Day 2021**.
+✓ Served as **Student Branch Secretary** of **IEEE SB College of Engineering Kidangoor**, overseeing branch documentation and operational activities.
 
-✓ Served as Student Branch Secretary of College of Engineering Kidangoor, managing records and supporting technical outreach.
+✓ Recognized as one of the **Top Performing IEEE Xtreme 15.0 Ambassadors** globally.
+
+✓ Proctored **8 virtual teams** during **IEEE Xtreme 16.0**, ensuring compliance with competition rules and fair participation.
+
+✓ Led outreach and awareness initiatives as an **IEEE Ambassador** across **IEEE Xtreme**, **IEEE PES Day 2021**, and **IEEE Day 2021**.
+
+✓ Coordinated student volunteers, event registrations, publicity campaigns, and technical engagement activities.
+
+✓ Promoted IEEE membership and supported global community-building initiatives through technical and professional outreach.
 
 ---
 
