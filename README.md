@@ -161,11 +161,17 @@
 
 ![](https://img.shields.io/badge/Enterprise%20Intern-6F00FF?style=for-the-badge)
 ![](https://img.shields.io/badge/Agile-7B2CBF?style=flat-square)
-![](https://img.shields.io/badge/System%20Design-8E44AD?style=flat-square)
+![](https://img.shields.io/badge/Project%20Management-8E44AD?style=flat-square)
 
-✓ Worked on data-driven problem solving and system design using Agile workflows.
+✓ Completed a 45-hour remote internship focused on Agile software development and enterprise application design using TCS Jile.
 
-✓ Built prototypes and gained exposure to enterprise delivery practices.
+✓ Designed and developed an Employee Information System using Python and SQL, applying Agile planning, sprint execution, and iterative development practices.
+
+✓ Applied Agile principles to break complex business requirements into user stories, tasks, and sprint deliverables for structured problem solving.
+
+✓ Gained practical experience in backlog management, progress tracking, team collaboration, and project lifecycle management using Jile.
+
+✓ Strengthened skills in analytical thinking, structured decision-making, and enterprise software development workflows.
 
 <br>
 
