@@ -237,14 +237,14 @@
 
 ✓ Led campus initiatives by organizing technical events, mentoring members, and fostering a strong tech learning culture.
 
-✓ Served as the campus ambassador for TinkerHub values in College of Engineering Kidangoor and acted as the liaison with the Campus Council, submitting regular activity reports.
+✓ Served as the campus ambassador for TinkerHub values at College of Engineering Kidangoor and acted as the liaison with the Campus Council, submitting regular activity reports.
 
 ---
 
 ### 💡 IEDC (Innovation and Entrepreneurship Development Cell)
 ![](https://img.shields.io/badge/Chief%20Creative%20Officer-8E24AA?style=for-the-badge)
 
-✓ Supported innovation-driven programs and student-led technical initiatives.
+✓ Supported innovation-driven programs and student-led technical initiatives at College of Engineering Kidangoor.
 
 ---
 
