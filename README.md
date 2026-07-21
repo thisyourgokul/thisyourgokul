@@ -226,9 +226,13 @@
 ### 💻 CoderDojo
 ![](https://img.shields.io/badge/Mentor-F57C00?style=for-the-badge)
 
-✓ Volunteered as mentor and trainer for Scratch workshops under the International CoderDojo initiative.
+✓ International volunteer mentor for the **CoderDojo "Come and Code"** initiative.
 
-✓ Recognized with **Top Mentor Special Appreciation**.
+✓ Taught **Scratch programming** to children aged **8–15** from the **UK and India**.
+
+✓ Mentored multiple cohorts through interactive online workshops and project presentations.
+
+✓ Awarded the **Top Mentor Special Appreciation Award** for mentoring excellence.
 
 ---
 
