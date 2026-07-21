@@ -246,6 +246,8 @@
 
 ✓ Contributed to global IEEE initiatives including **IEEE Xtreme**, **IEEE PES Day**, and **IEEE Day**, collaborating with volunteers and student branches.
 
+✓ Participated as a delegate at AKIASSC 2022, strengthening professional networking, industry exposure, and technical knowledge through IEEE-led workshops, industrial visits, and expert sessions.
+
 ---
 
 ### 💻 CoderDojo
