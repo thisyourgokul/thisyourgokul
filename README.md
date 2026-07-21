@@ -205,6 +205,8 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=42&color=gradient&customColorList=5,22&text=🤝%20Volunteering&fontSize=24&fontColor=ffffff&animation=fadeIn" />
 </p>
 
+---
+
 ### <img src="https://cdn.simpleicons.org/acm/0085CA" width="26" valign="middle"> ACM (Association for Computing Machinery)
 ![](https://img.shields.io/badge/Professional%20Member-0085CA?style=for-the-badge)
 
