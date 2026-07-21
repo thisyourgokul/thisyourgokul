@@ -56,8 +56,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=42&color=gradient&customColorList=31,6&text=🧰%20Tech%20Stack&fontSize=24&fontColor=ffffff&animation=fadeIn" />
 </p>
 
----
-
 <p align="left">
   <!-- Languages & Version Control -->
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -86,13 +84,10 @@
 • **Data Engineering & Big Data:** Databricks, Apache Spark, Snowflake  
 • **Cloud Computing:** AWS, Google Cloud, Microsoft Azure  
 
----
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=42&color=gradient&customColorList=18,30&text=🏷️%20Focus%20Areas&fontSize=24&fontColor=ffffff&animation=fadeIn" />
 </p>
-
----
 
 <p align="left">
   <!-- Strategy & Soft Skills -->
@@ -111,8 +106,6 @@
   <img src="https://img.shields.io/badge/Data%20Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Data%20Storytelling%20%26%20Communication-E34F26?style=for-the-badge" />
 </p>
-
----
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=42&color=gradient&customColorList=2,17&text=🏆%20Achievements&fontSize=24&fontColor=ffffff&animation=fadeIn" />
