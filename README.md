@@ -179,10 +179,15 @@
 ![](https://img.shields.io/badge/Machine%20Learning-D81B60?style=flat-square)
 ![](https://img.shields.io/badge/EDA-E91E63?style=flat-square)
 
-✓ Completed the Graduate Rotational Internship Program (GRIP).
+✓ Completed the **Graduate Rotational Internship Program (GRIP)** in **Data Science & Business Analytics**.
 
-✓ Built supervised and unsupervised ML models and performed EDA on retail datasets.
+✓ Built machine learning solutions including **Regression**, **Classification**, and **Clustering** models using Python and Scikit-learn.
 
+✓ Conducted **Exploratory Data Analysis (EDA)**, data preprocessing, visualization, and feature engineering on real-world datasets.
+
+✓ Developed end-to-end data science projects following the complete ML workflow, from data preparation to model evaluation.
+
+✓ Published project notebooks and source code on GitHub as part of the internship deliverables.
 <br>
 
 ---
