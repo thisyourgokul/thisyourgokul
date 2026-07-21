@@ -219,7 +219,7 @@
 
 ✓ Volunteered for IEEE initiatives as Ambassador and Proctor including **IEEEXtreme (15th and 16th Edition)**, **IEEE PES Day 2021**, and **IEEE Day 2021**.
 
-✓ Served as Student Branch Secretary, managing records and supporting technical outreach.
+✓ Served as Student Branch Secretary of College of Engineering Kidangoor, managing records and supporting technical outreach.
 
 ---
 
@@ -237,7 +237,7 @@
 
 ✓ Led campus initiatives by organizing technical events, mentoring members, and fostering a strong tech learning culture.
 
-✓ Served as the campus ambassador for TinkerHub values and acted as the liaison with the Campus Council, submitting regular activity reports.
+✓ Served as the campus ambassador for TinkerHub values in College of Engineering Kidangoor and acted as the liaison with the Campus Council, submitting regular activity reports.
 
 ---
 
