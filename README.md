@@ -351,38 +351,38 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=42&color=gradient&customColorList=29,10&text=📌%20Featured%20Work&fontSize=24&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-```
+```text
 ╭──────────────────────────────────────────────────────────────╮
-│                   CONTRIBUTION LEDGER                                   │
+│                    CONTRIBUTION LEDGER                       │
 ╰──────────────────────────────────────────────────────────────╯
 ```
 
 ### 📊 Enterprise Analytics
-Built and maintained enterprise dashboards and KPI reports supporting HRMS, Admissions, Finance, Administration, and Academic operations across 10+ campuses.
+Built and maintained enterprise dashboards and KPI reports supporting HRMS, Admissions, Finance, Administration, and Academic operations across **10+ campuses**.
 
 ### ⚙️ Data Automation
-Automated SQL-based reporting workflows and ETL pipelines, reducing manual reporting effort by approximately 40%.
+Automated SQL reporting workflows and ETL pipelines, reducing manual reporting effort by **~40%**.
 
 ### 🔍 Decision Intelligence
-Performed exploratory data analysis (EDA), data validation, and statistical profiling to uncover trends, anomalies, and actionable business insights.
+Performed exploratory data analysis (EDA), statistical profiling, and data validation to uncover trends, anomalies, and actionable business insights.
 
 ### 🤖 Predictive Analytics
-Developed machine learning solutions for classification, prediction, clustering, and business process automation using supervised and unsupervised learning.
+Developed machine learning solutions for classification, prediction, clustering, and intelligent business process automation.
 
 ### 📈 Business Intelligence
-Designed interactive self-service dashboards that transformed operational data into decision-ready insights for business stakeholders.
+Designed self-service dashboards that transformed operational data into decision-ready insights for business stakeholders.
 
 ### 🎓 Institutional Analytics
-Integrated and analyzed multi-source datasets to support Amrita Alumni Meetup 2024 planning and institutional reporting.
+Integrated and analyzed multi-source datasets to support **Amrita Alumni Meetup 2024** planning and institutional reporting.
 
 ### 🏢 Enterprise Software Engineering
-Designed and developed an Employee Information System prototype using Agile methodology, applying sprint planning, backlog management, and iterative software delivery with TCS Jile.
+Designed and developed an Employee Information System using Agile methodology, applying sprint planning, backlog management, and iterative software delivery with **TCS Jile**.
 
 ### 🧠 End-to-End Machine Learning
-Delivered complete ML workflows during GRIP, including data preprocessing, EDA, feature engineering, model development, evaluation, and visualization.
+Delivered complete machine learning workflows including data preprocessing, feature engineering, model development, evaluation, and visualization.
 
 ### 🚀 Artificial Intelligence
-Applied AI concepts including neural networks, fuzzy logic, and intelligent problem-solving techniques through hands-on robotics and AI projects.
+Applied neural networks, fuzzy logic, and AI-driven problem-solving techniques to intelligent systems, robotics, and automation use cases.
 ---
 
 <p align="left">
